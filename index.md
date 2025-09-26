@@ -1,9 +1,7 @@
 # Adam White's Research Page 
 
 <img src="adamHead_new.jpg" border="0" width="230" align="middle"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<!--<font color="darkgreen">COMPUTING SCIENCE</font>-->
-</p>
+
 Associate Professor<br>
 <a href="https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs">Canada CIFAR AI Chair</a><br>
 Director of the <a href="https://amii.ca">Alberta Machine Intelligence Institute (Amii)</a><br>
@@ -19,11 +17,12 @@ See <a
 href="https://scholar.google.com/citations?user=1GqGhcsAAAAJ&hl=en&oi=ao"> my
 google scholar page</a> for a list of my
 publications that Google knows about or see the <a
-href="https://amw8.github.io/">list below</a> . 
+href="#journal-papers">list below</a> . 
 
 ## My Students
 If you are interested in joining my group as an MSc student, <a href="https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html">please apply directly to the MSc program.</a> <b>Do not contact me!</b> I have no control over the admissions process: admission is based on grades, previous research experience, your research statement, and the quality of your reference letters. All students accepted to our MSc program get guaranteed TA funding. If you would like to work with me, then first apply to the MSc program, then contact once your are admitted and mention my favorite TV show <i> Stargate</i>. 
-</br></br>
+
+
 Jacob Adkins (PhD)<br>
 Armin Ashrafi (MSc)<br>
 Marie Del Valle (MSc)<br>
@@ -91,7 +90,7 @@ CSCI-B 659: Reinforcement learning for Artificial Intelligence - Spring 2016</a>
 <br>
 
 ## Research
-</bf>Keywords:</bf> 
+<bf>Keywords:</bf> 
 <em> Continual Learning, Reinforcement Learning, Robotics, Knowledge Representation and 
 Intrinsic Motivation</em>
 <br><br>
@@ -350,7 +349,7 @@ learning. Master's thesis, <i> University of Alberta. </i>
 
 
 
-## <font color="blue">Contact info
+## Contact info
 7-188 University Commmons Building<br>
 Department of Computing Science<br>
 University of Alberta<br>
