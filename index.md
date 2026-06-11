@@ -119,6 +119,9 @@ Tyler Lazar, Matthew Vandergrift, Martha White, Adam White (2026). <a href="http
 Jordan Coblin, Han Wang, Martha White, Adam White (2026). <a href="https://openreview.net/forum?id=xLIDSGRJCA">Dynamics Models for Offline Hyperparameter Selection in Real-World RL</a>. <i>The Reinforcement Learning Journal</i>.
 <br><br>
 
+Parham Mohammad Panahi, Armin Ashrafi, Haoyu Du, Andrew Patterson, Martha White, Adam White (2026). <a href="https://openreview.net/forum?id=nrx88Mf0Fm">DEndpoint Replay: Compressing the Recency Buffer in Deep Reinforcement Learning</a>. <i>The Reinforcement Learning Journal</i>.
+<br><br>
+
 Samuel Neumann, Jiamin He, Adam White, and Martha White (2025). <a href="https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_211.pdf">Investigating the Utility of Mirror Descent in Off-policy Actor-Critic</a>. <i>The Reinforcement Learning Journal</i>.
 <br><br>
 
@@ -127,8 +130,6 @@ Thomas Ferguson, Alona Fyshe, and Adam White (2025). <a href="https://rlj.cs.uma
 
 Esraa Elelimy, Brett Daley, Andrew Patterson, Marlos C. Machado, Adam White, and Martha White (2025). <a href="https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_302.pdf">Deep Reinforcement Learning with Gradient Eligibility Traces</a>. <i>The Reinforcement Learning Journal</i>.
 <br><br>
-
-
 
 Ferguson, T., Fyshe, A., White, A. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S0006899325000290?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=154452239&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM539090&utm_source=AC_">Electrophysiological signatures of the effect of context on exploration: Greater attentional and learning signals when exploration is costly</a>. <i>Brain Research</i>.
 <br><br>
