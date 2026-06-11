@@ -113,6 +113,9 @@ Adam White, Martha White, Jan Peters, Carlo D’Eramo (2026). <a href="https://o
 Steven Tang, Xinze Xiong, Anna Hakhverdyan, Andrew Patterson, Jacob Adkins, Jiamin He, Esraa Elelimy, Parham Mohammad Panahi, Martha White, Adam White (2026). <a href="https://openreview.net/forum?id=yXktec4zxW">Forager: a lightweight testbed for continual learning with partial observability in RL</a>. <i>The Reinforcement Learning Journal</i>.
 <br><br>
 
+Tyler Lazar, Matthew Vandergrift, Martha White, Adam White (2026). <a href="https://openreview.net/forum?id=5O0rsINBRl">Revisiting FTA: A Sparse One-to-Many Activation for Reinforcement Learning</a>. <i>The Reinforcement Learning Journal</i>.
+<br><br>
+
 Samuel Neumann, Jiamin He, Adam White, and Martha White (2025). <a href="https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_211.pdf">Investigating the Utility of Mirror Descent in Off-policy Actor-Critic</a>. <i>The Reinforcement Learning Journal</i>.
 <br><br>
 
