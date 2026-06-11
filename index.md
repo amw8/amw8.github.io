@@ -12,24 +12,17 @@ University of Alberta<br>
 <a href="mailto:adam@rlcore.ai"> adam@rlcore.ai</a> <br>
 (780) 908-5499 <br>
 
-<br><br>
-See <a
-href="https://scholar.google.com/citations?user=1GqGhcsAAAAJ&hl=en&oi=ao"> my
-google scholar page</a> for a list of my
-publications that Google knows about or see the <a
-href="#journal-papers">list below</a> . 
+## Curriculum vitae
+My current CV can be found 
+<a href="cv.pdf">here</a>.
 
 ## My Students
-If you are interested in joining my group as an MSc student, <a href="https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html">please apply directly to the MSc program.</a> <b>Do not contact me!</b> I have no control over the admissions process: admission is based on grades, previous research experience, your research statement, and the quality of your reference letters. All students accepted to our MSc program get guaranteed TA funding. If you would like to work with me, then first apply to the MSc program, then contact once your are admitted and mention my favorite TV show <i> Stargate</i>. 
-
+If you are interested in joining my group as a MSc or PhD student, admission is based on grades, previous research experience, your research statement, and the quality of your reference letters. All students accepted to our graduate program are guaranteed TA and RA funding. If you would like to work with me, mention my favorite TV show <i> Stargate</i>. 
 
 Jacob Adkins (PhD)<br>
 Armin Ashrafi (MSc)<br>
 Marie Del Valle (MSc)<br>
 Oliver Diamond (MSc)<br>
-Cameron Jen (MSc)<br>
-Anffany Chen (Pdf)<br>
-Ty Lazar (MSc)<br>
 Baxter Madore (MSc)<br>
 Parham Mohammad Panahi (PhD)<br>
 Samuel Neumann (PhD)<br>
@@ -38,6 +31,9 @@ Steven Tang (MSc)<br>
 Eric Xiong (MSc)<br>
 
 ## Allumni
+Cameron Jen (MSc, 2026)<br>
+Anffany Chen (Pdf, 2026)<br>
+Ty Lazar (MSc, 2025)<br>
 Han Wang (PhD, 2025)<br>
 Tom Ferguson (Pdf, 2025)<br>
 Jacob Adkins (MSc, 2025)<br>
@@ -102,10 +98,12 @@ Adam's group is deeply passionate about good empirical practices and new methodo
 Adam has pioneered applications of reinforcement learning to real drinking and wastewater treatment plants and is the co-founder of RL Core Technologies, 
 a startup applying AI and machine learning across industrial control.
 
-
-## Curriculum vitae
-My current CV can be found 
-<a href="cv.pdf">here</a>.
+<br><br>
+See <a
+href="https://scholar.google.com/citations?user=1GqGhcsAAAAJ&hl=en&oi=ao"> my
+google scholar page</a> for a list of my
+publications that Google knows about or see the <a
+href="#journal-papers">list below</a> . 
 
 ## Journal Papers
 
