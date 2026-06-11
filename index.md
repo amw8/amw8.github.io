@@ -53,7 +53,7 @@ Paul Liu (MSc, 2022)<br>
 Sina Ghiassian (PhD, 2022)<br>
 Raksha Kumaraswamy (PhD, 2021)<br>
 Matt McLeod (MSc, 2021)<br>
-Archit Sakhadeo (MSc, 2021)<br>  
+Archit Sakhadeo (MSc, 2021)<br>
 Xutong Zhao (MSc, 2021)<br>
 Cam Linke (MSc, 2020)<br>
 Han Wang (MSc, 2020)<br>
@@ -106,6 +106,9 @@ publications that Google knows about or see the <a
 href="#journal-papers">list below</a> . 
 
 ## Journal Papers
+Théo Vincent, Kevin Gerhardt, Yogesh Tripathi, Habib Maraqten,
+Adam White, Martha White, Jan Peters, Carlo D’Eramo (2026). <a href="https://openreview.net/pdf?id=9aTDoQ3Qy1">Gradient Iterated Temporal-Difference Learning</a>. <i>The Reinforcement Learning Journal</i>.
+<br><br>
 
 Samuel Neumann, Jiamin He, Adam White, and Martha White (2025). <a href="https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_211.pdf">Investigating the Utility of Mirror Descent in Off-policy Actor-Critic</a>. <i>The Reinforcement Learning Journal</i>.
 <br><br>
