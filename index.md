@@ -1,11 +1,33 @@
-![Adam White](adamHead_new.jpg)
+<style>
+.profile-card { display: flex; align-items: center; gap: 34px; flex-wrap: wrap; padding: 32px 36px; margin-bottom: 28px; background: #fff; border: 1px solid #e3e8ee; border-top: 5px solid #275d38; border-radius: 14px; box-shadow: 0 6px 24px rgba(30, 45, 60, 0.08); }
+.profile-card img { width: 160px; height: 160px; border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0 0 0 3px #275d38, 0 6px 18px rgba(30, 45, 60, 0.22); }
+.profile-info { flex: 1; min-width: 270px; }
+.profile-info h1 { margin: 0 0 2px 0; font-size: 2.3em; font-weight: 700; color: #1a2733; letter-spacing: -0.5px; border: none; padding: 0; }
+.profile-info .tagline { margin: 0 0 12px 0; font-size: 0.86em; font-weight: 600; letter-spacing: 1.6px; text-transform: uppercase; color: #275d38; }
+.profile-info .role { margin: 3px 0; color: #4a5a68; font-size: 1.02em; line-height: 1.55; }
+.profile-info .role a { color: #275d38; font-weight: 600; text-decoration: none; border-bottom: 1px solid rgba(39, 93, 56, 0.3); }
+.profile-info .role a:hover { border-bottom-color: #275d38; }
+.profile-links { margin-top: 16px; }
+.profile-links a, .profile-links span { display: inline-block; margin: 3px 8px 3px 0; padding: 6px 15px; font-size: 0.88em; font-weight: 500; color: #275d38; background: #f4f8f5; border: 1px solid #cfe0d4; border-radius: 999px; text-decoration: none; transition: all 0.15s ease; }
+.profile-links a:hover { background: #275d38; color: #fff; border-color: #275d38; }
+.profile-links span { color: #4a5a68; background: #f6f8fa; border-color: #e3e8ee; }
+</style>
 
-# Adam White
-
-Associate Professor, Department of Computing Science, University of Alberta
-[Canada CIFAR AI Chair](https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs) · Director of the [Alberta Machine Intelligence Institute (Amii)](https://amii.ca) · PI of the [RLAI Lab](http://rlai.ualberta.ca/)
-
-[amw8@ualberta.ca](mailto:amw8@ualberta.ca) · (780) 908-5499 · [Google Scholar](https://scholar.google.com/citations?user=1GqGhcsAAAAJ) · [CV](https://sites.ualberta.ca/~amw8/cv.pdf)
+<div class="profile-card">
+  <img src="adamHead_new.jpg" alt="Adam White">
+  <div class="profile-info">
+    <h1>Adam White</h1>
+    <p class="tagline">Reinforcement Learning · Continual Learning · Real-World AI</p>
+    <p class="role">Associate Professor, Department of Computing Science, University of Alberta</p>
+    <p class="role"><a href="https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs">Canada CIFAR AI Chair</a> &nbsp;·&nbsp; Director, <a href="https://amii.ca">Amii</a> &nbsp;·&nbsp; PI, <a href="http://rlai.ualberta.ca/">RLAI Lab</a></p>
+    <div class="profile-links">
+      <a href="mailto:amw8@ualberta.ca">✉ amw8@ualberta.ca</a>
+      <a href="https://scholar.google.com/citations?user=1GqGhcsAAAAJ">Google Scholar</a>
+      <a href="https://sites.ualberta.ca/~amw8/cv.pdf">CV</a>
+      <span>☎ (780) 908-5499</span>
+    </div>
+  </div>
+</div>
 
 ## Research
 
