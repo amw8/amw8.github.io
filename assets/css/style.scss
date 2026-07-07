@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+.content-wrap { max-width: 920px; margin: 0 auto; padding: 44px 24px 60px; }
+
 .profile-card { display: flex; align-items: center; gap: 34px; flex-wrap: wrap; padding: 32px 36px; margin-bottom: 28px; background: #fff; border: 1px solid #e3e8ee; border-top: 5px solid #275d38; border-radius: 14px; box-shadow: 0 6px 24px rgba(30, 45, 60, 0.08); }
 .profile-card img { width: 160px; height: 160px; border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0 0 0 3px #275d38, 0 6px 18px rgba(30, 45, 60, 0.22); }
 .profile-info { flex: 1; min-width: 270px; }
