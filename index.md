@@ -4,12 +4,12 @@
     <h1>Adam White</h1>
     <p class="tagline">Reinforcement Learning · Continual Learning · Real-World AI</p>
     <p class="role">Associate Professor, Department of Computing Science, University of Alberta</p>
-    <p class="role"><a href="https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs">Canada CIFAR AI Chair</a> &nbsp;·&nbsp; Fellow, <a href="https://amii.ca">Amii</a> &nbsp;·&nbsp; PI, <a href="http://rlai.ualberta.ca/">RLAI Lab</a></p>
+    <p class="role"><a href="https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs">Canada CIFAR AI Chair</a> &nbsp;·&nbsp; Director, <a href="https://amii.ca">Amii</a> &nbsp;·&nbsp; PI, <a href="http://rlai.ualberta.ca/">RLAI Lab</a></p>
+    <p class="role">Co-founder and Chief Scientific Officer, <a href="https://rlcore.ai">RLCore</a></p>
     <div class="profile-links">
       <a href="mailto:amw8@ualberta.ca">✉ amw8@ualberta.ca</a>
       <a href="https://scholar.google.com/citations?user=1GqGhcsAAAAJ">Google Scholar</a>
-      <a href="cv.pdf">CV</a>
-      <span>☎ (780) 908-5499</span>
+      <a href="https://sites.ualberta.ca/~amw8/cv.pdf">CV</a>
     </div>
   </div>
 </div>
@@ -110,10 +110,10 @@ If you are interested in joining my group as an MSc student, please message me w
 - Andrew Patterson, Adam White, Martha White (2022). [A Generalized Projected Bellman Error for Off-policy Value Estimation in Reinforcement Learning](https://www.jmlr.org/papers/volume23/21-037/21-037.pdf). *Journal of Machine Learning Research*.
 - Banafsheh Rafiee, Zaheer Abbas, Sina Ghiassian, Raksha Kumaraswamy, Richard S. Sutton, Elliot Ludvig, Adam White (2022). [From eye-blinks to state construction: diagnostic benchmarks for online representation learning](https://journals.sagepub.com/doi/pdf/10.1177/10597123221085039). *Adaptive Behavior*.
 - Matthew Schlegel, Andrew Jacobsen, Muhammad Zaheer, Andrew Patterson, Adam White, Martha White (2021). [General value function networks](https://dl.acm.org/doi/abs/10.1613/jair.1.12105). *Journal of Artificial Intelligence Research*.
-- Cam Linke, Nadia M. Ady, Martha White, Thomas Degris, Adam White (2020). [Adapting behaviour via intrinsic reward: A survey and empirical study](https://sites.ualberta.ca/~amw8/bandit.pdf). *Journal of Artificial Intelligence Research*.
-- Joseph Modayil, Adam White, Richard S. Sutton (2014). [Multi-timescale Nexting in a Reinforcement Learning Robot](https://sites.ualberta.ca/~amw8/nexting.pdf). *Adaptive Behavior*, 22(2):146–160.
-- Shimon Whiteson, Brian Tanner, Adam White (2010). [The reinforcement learning competitions](https://sites.ualberta.ca/~amw8/rlcomp.pdf). *AI Magazine*, 31(2):81–94.
-- Brian Tanner, Adam White (2009). [RL-Glue: Language-independent software for reinforcement-learning experiments](https://sites.ualberta.ca/~amw8/rlglue.pdf). *Journal of Machine Learning Research*, 10:2133–2136.
+- Cam Linke, Nadia M. Ady, Martha White, Thomas Degris, Adam White (2020). [Adapting behaviour via intrinsic reward: A survey and empirical study](https://www.jair.org/index.php/jair/article/view/12087). *Journal of Artificial Intelligence Research*.
+- Joseph Modayil, Adam White, Richard S. Sutton (2014). [Multi-timescale Nexting in a Reinforcement Learning Robot](https://journals.sagepub.com/doi/10.1177/1059712313511648). *Adaptive Behavior*, 22(2):146–160.
+- Shimon Whiteson, Brian Tanner, Adam White (2010). [The reinforcement learning competitions](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2227). *AI Magazine*, 31(2):81–94.
+- Brian Tanner, Adam White (2009). [RL-Glue: Language-independent software for reinforcement-learning experiments](https://www.jmlr.org/papers/v10/tanner09a.html). *Journal of Machine Learning Research*, 10:2133–2136.
 
 ## Conference Papers
 
@@ -134,22 +134,22 @@ If you are interested in joining my group as an MSc student, please message me w
 - Sina Ghiassian, Andrew Patterson, Shivam Garg, Dhawal Gupta, Adam White, Martha White (2020). [Gradient Temporal-Difference Learning with Regularized Corrections](http://proceedings.mlr.press/v119/ghiassian20a/ghiassian20a.pdf). *International Conference on Machine Learning*.
 - Sina Ghiassian, Banafsheh Rafiee, Yat Long Lo, Adam White (2020). [Improving Performance in Reinforcement Learning by Breaking Generalization in Neural Networks](http://ifaamas.org/Proceedings/aamas2020/pdfs/p438.pdf). *International Conference on Autonomous Agents and Multi-Agent Systems*.
 - Somjit Nath, Vincent Liu, Alan Chan, Adam White, Martha White (2020). [Training Recurrent Neural Networks Online by Learning Explicit State Variables](https://openreview.net/forum?id=SJgmR0NKPr). *International Conference on Learning Representations*.
-- Yi Wan, Muhammad Zaheer, Richard S. Sutton, Adam White, Martha White (2019). [Planning with Expectation Models](https://sites.ualberta.ca/~amw8/nonLinDyna.pdf). *International Joint Conference on Artificial Intelligence*.
-- Banafsheh Rafiee, Sina Ghiassian, Adam White, Richard S. Sutton (2019). [Prediction in Intelligence: An Empirical Comparison of Off-policy Algorithms on Robots](https://sites.ualberta.ca/~amw8/robot_knowledge.pdf). *International Conference on Autonomous Agents and Multiagent Systems*.
-- Andrew Jacobsen, Matthew Schlegel, Cam Linke, Thomas Degris, Adam White, Martha White (2019). [Meta-descent for online, continual prediction](https://sites.ualberta.ca/~amw8/adagain.pdf). *AAAI Conference on Artificial Intelligence*.
-- Raksha Kumaraswamy, Matthew Schlegel, Adam White, Martha White (2018). [Context-dependent upper-confidence bounds for directed exploration](https://sites.ualberta.ca/~amw8/ucls.pdf). *Advances in Neural Information Processing Systems*.
-- Craig Sherstan, Brendan Bennett, Kenny Young, Dylan Ashley, Adam White, Martha White, Richard S. Sutton (2018). [Directly Estimating the Variance of the λ-Return Using Temporal-Difference Methods](https://sites.ualberta.ca/~amw8/var.pdf). *Conference on Uncertainty in Artificial Intelligence*.
+- Yi Wan, Muhammad Zaheer, Richard S. Sutton, Adam White, Martha White (2019). [Planning with Expectation Models](https://www.ijcai.org/proceedings/2019/506). *International Joint Conference on Artificial Intelligence*.
+- Banafsheh Rafiee, Sina Ghiassian, Adam White, Richard S. Sutton (2019). [Prediction in Intelligence: An Empirical Comparison of Off-policy Algorithms on Robots](https://dl.acm.org/doi/10.5555/3306127.3331711). *International Conference on Autonomous Agents and Multiagent Systems*.
+- Andrew Jacobsen, Matthew Schlegel, Cam Linke, Thomas Degris, Adam White, Martha White (2019). [Meta-descent for online, continual prediction](https://ojs.aaai.org/index.php/AAAI/article/view/4284). *AAAI Conference on Artificial Intelligence*.
+- Raksha Kumaraswamy, Matthew Schlegel, Adam White, Martha White (2018). [Context-dependent upper-confidence bounds for directed exploration](https://proceedings.neurips.cc/paper/2018/hash/f516dfb84b9051ed85b89cdc3a8ab7f5-Abstract.html). *Advances in Neural Information Processing Systems*.
+- Craig Sherstan, Brendan Bennett, Kenny Young, Dylan Ashley, Adam White, Martha White, Richard S. Sutton (2018). [Comparing Direct and Indirect Temporal-Difference Methods for Estimating the Variance of the Return](https://www.auai.org/uai2018/proceedings/papers/35.pdf). *Conference on Uncertainty in Artificial Intelligence*.
 - Yangchen Pan, Muhammad Zaheer, Adam White, Andrew Patterson, Martha White (2018). [Organizing experience: a deeper look at replay mechanisms for sample-based planning in continuous state domains](https://arxiv.org/abs/1806.04624). *International Joint Conference on Artificial Intelligence*.
-- Yangchen Pan, Adam White, Martha White (2017). [Accelerated Gradient Temporal Difference Learning](https://sites.ualberta.ca/~amw8/aaai.pdf). *AAAI Conference on Artificial Intelligence*.
-- Craig Sherstan, Marlos C. Machado, Adam White, Patrick M. Pilarski (2016). [Introspective Agents: Confidence Measures for General Value Functions](https://sites.ualberta.ca/~amw8/agi2016.pdf). *Artificial General Intelligence*.
-- Adam White, Martha White (2016). [Investigating practical linear temporal difference learning](https://sites.ualberta.ca/~amw8/htd.pdf). *International Conference on Autonomous Agents and MultiAgent Systems*. [[Code](https://sites.ualberta.ca/~amw8/juliaDistV2.zip)]
-- Martha White, Adam White (2016). [Adapting the trace parameter in reinforcement learning](https://sites.ualberta.ca/~amw8/lambda.pdf). *International Conference on Autonomous Agents and MultiAgent Systems*.
-- Adam White, Joseph Modayil, Richard S. Sutton (2012). [Scaling life-long off-policy learning](https://sites.ualberta.ca/~amw8/scaleoff.pdf). *IEEE International Conference on Development and Learning and Epigenetic Robotics*. **Paper of distinction award**
-- Joseph Modayil, Adam White, Patrick M. Pilarski, Richard S. Sutton (2012). [Acquiring a broad range of empirical knowledge in real time by temporal-difference learning](https://sites.ualberta.ca/~amw8/smc.pdf). *IEEE International Conference on Systems, Man, and Cybernetics*.
-- Joseph Modayil, Adam White, Richard S. Sutton (2012). [Multi-timescale Nexting in a Reinforcement Learning Robot](https://sites.ualberta.ca/~amw8/sab.pdf). *International Conference on Adaptive Behaviour*.
-- Richard S. Sutton, Joseph Modayil, Michael Delp, Thomas Degris, Patrick M. Pilarski, Adam White, Doina Precup (2011). [Horde: A scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction](https://sites.ualberta.ca/~amw8/horde.pdf). *International Conference on Autonomous Agents and Multiagent Systems*.
-- Martha White, Adam White (2010). [Interval estimation for reinforcement-learning algorithms in continuous-state domains](https://sites.ualberta.ca/~amw8/interval.pdf). *Advances in Neural Information Processing Systems*.
-- Nathan R. Sturtevant, Adam M. White (2007). [Feature construction for reinforcement learning in hearts](https://sites.ualberta.ca/~amw8/hearts.pdf). *Computers and Games*.
+- Yangchen Pan, Adam White, Martha White (2017). [Accelerated Gradient Temporal Difference Learning](https://ojs.aaai.org/index.php/AAAI/article/view/10829). *AAAI Conference on Artificial Intelligence*.
+- Craig Sherstan, Marlos C. Machado, Adam White, Patrick M. Pilarski (2016). [Introspective Agents: Confidence Measures for General Value Functions](https://link.springer.com/chapter/10.1007/978-3-319-41649-6_26). *Artificial General Intelligence*.
+- Adam White, Martha White (2016). [Investigating practical linear temporal difference learning](https://dl.acm.org/doi/10.5555/2936924.2936997). *International Conference on Autonomous Agents and MultiAgent Systems*. [[Code](https://sites.ualberta.ca/~amw8/juliaDistV2.zip)]
+- Martha White, Adam White (2016). [A Greedy Approach to Adapting the Trace Parameter for Temporal Difference Learning](https://www.ifaamas.org/Proceedings/aamas2016/pdfs/p557.pdf). *International Conference on Autonomous Agents and MultiAgent Systems*.
+- Adam White, Joseph Modayil, Richard S. Sutton (2012). [Scaling life-long off-policy learning](https://ieeexplore.ieee.org/document/6400860). *IEEE International Conference on Development and Learning and Epigenetic Robotics*. **Paper of distinction award**
+- Joseph Modayil, Adam White, Patrick M. Pilarski, Richard S. Sutton (2012). [Acquiring a broad range of empirical knowledge in real time by temporal-difference learning](https://ieeexplore.ieee.org/document/6378016). *IEEE International Conference on Systems, Man, and Cybernetics*.
+- Joseph Modayil, Adam White, Richard S. Sutton (2012). [Multi-timescale Nexting in a Reinforcement Learning Robot](https://link.springer.com/chapter/10.1007/978-3-642-33093-3_30). *International Conference on Adaptive Behaviour*.
+- Richard S. Sutton, Joseph Modayil, Michael Delp, Thomas Degris, Patrick M. Pilarski, Adam White, Doina Precup (2011). [Horde: A scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction](https://dl.acm.org/doi/10.5555/2031678.2031726). *International Conference on Autonomous Agents and Multiagent Systems*.
+- Martha White, Adam White (2010). [Interval estimation for reinforcement-learning algorithms in continuous-state domains](https://proceedings.neurips.cc/paper/2010/hash/13f3cf8c531952d72e5847c4183e6910-Abstract.html). *Advances in Neural Information Processing Systems*.
+- Nathan R. Sturtevant, Adam M. White (2007). [Feature construction for reinforcement learning in hearts](https://link.springer.com/chapter/10.1007/978-3-540-75538-8_11). *Computers and Games*.
 
 ## Preprints
 
