@@ -28,8 +28,6 @@ If you are interested in joining my group as an MSc student, please message me w
 - Armin Ashrafi (MSc)
 - Marie Del Valle (MSc)
 - Oliver Diamond (MSc)
-- Cameron Jen (MSc)
-- Anffany Chen (Postdoc)
 - Ty Lazar (MSc)
 - Baxter Madore (MSc)
 - Parham Mohammad Panahi (PhD)
@@ -41,6 +39,8 @@ If you are interested in joining my group as an MSc student, please message me w
 
 ## Alumni
 
+- Anffany Chen (Postdoc, 2026)
+- Cameron Jen (MSc, 2026)
 - Han Wang (PhD, 2025)
 - Tom Ferguson (Postdoc, 2025)
 - Jacob Adkins (MSc, 2025)
