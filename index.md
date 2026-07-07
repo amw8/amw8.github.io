@@ -1,368 +1,115 @@
-# Adam White's Research Page 
+# Adam White
 
-<img src="adamHead_new.jpg" border="0" width="230" align="middle"><br>
+Associate Professor, Department of Computing Science, University of Alberta
+[Canada CIFAR AI Chair](https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs) · Director of the [Alberta Machine Intelligence Institute (Amii)](https://amii.ca) · PI of the [RLAI Lab](http://rlai.ualberta.ca/)
 
-Associate Professor<br>
-<a href="https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs">Canada CIFAR AI Chair</a><br>
-Director of the <a href="https://amii.ca">Alberta Machine Intelligence Institute (Amii)</a><br>
-PI of the <a href="http://rlai.ualberta.ca/">Reinforcement Learning and Artificial Intelligence Lab (RLAI)</a><br>
-Department of Computing Science<br>
-University of Alberta<br>
-<a href="mailto:amw8@ualberta.ca"> amw8@ualberta.ca</a> <br>
-<a href="mailto:adam@rlcore.ai"> adam@rlcore.ai</a> <br>
-(780) 908-5499 <br>
+[amw8@ualberta.ca](mailto:amw8@ualberta.ca) · [Google Scholar](https://scholar.google.com/citations?user=1GqGhcsAAAAJ) · [CV](https://sites.ualberta.ca/~amw8/cv.pdf)
 
-## Curriculum vitae
-My current CV can be found 
-<a href="cv.pdf">here</a>.
+My research focuses on understanding the fundamental principles of learning in both simulated worlds and industrial control applications. I model intelligence as a reinforcement-learning agent continually interacting with an unknown environment, learning from a scalar reward signal. My group is deeply passionate about good empirical practices and methodologies to determine if our algorithms are ready for real-world deployment. I have pioneered applications of RL to real drinking and wastewater treatment plants, and I am co-founder of [RL Core Technologies](https://rlcore.ai).
 
-## My Students
-If you are interested in joining my group as a MSc or PhD student, admission is based on grades, previous research experience, your research statement, and the quality of your reference letters. All students accepted to our graduate program are guaranteed TA and RA funding. If you would like to work with me, mention my favorite TV show <i> Stargate</i>. 
+**Keywords:** Continual Learning, Reinforcement Learning, Robotics, Knowledge Representation, Intrinsic Motivation
 
-Jacob Adkins (PhD)<br>
-Armin Ashrafi (MSc)<br>
-Marie Del Valle (MSc)<br>
-Oliver Diamond (MSc)<br>
-Baxter Madore (MSc)<br>
-Parham Mohammad Panahi (PhD)<br>
-Samuel Neumann (PhD)<br>
-Sam Scholnick-Hughes (MSc)<br>
-Steven Tang (MSc)<br>
-Eric Xiong (MSc)<br>
+---
 
-## Allumni
-Cameron Jen (MSc, 2026)<br>
-Anffany Chen (Pdf, 2026)<br>
-Ty Lazar (MSc, 2025)<br>
-Han Wang (PhD, 2025)<br>
-Tom Ferguson (Pdf, 2025)<br>
-Jacob Adkins (MSc, 2025)<br>
-Golnaz Mesbahi (MSc, 2024)<br>
-Parham Mohammad Panahi (MSc, 2024)<br>
-Kevin Roice (MSc, 2024)<br>
-Jordan Coblin (MSc, 2024)<br>
-Banafshe Rafiee (PhD, 2024)<br>
-Matthew Schlegel (PhD, 2023)<br>
-Eugene Chen (MSc, 2023)<br>
-Subhojeet Pramanik (MSc, 2023)<br>
-Edan Meyer (MSc, 2023) <br>
-David Tao (MSc, 2022)<br>
-Samuel Neumann (MSc, 2022)<br>
-Derek Li (MSc, 2022)<br>
-Paul Liu (MSc, 2022)<br>
-Sina Ghiassian (PhD, 2022)<br>
-Raksha Kumaraswamy (PhD, 2021)<br>
-Matt McLeod (MSc, 2021)<br>
-Archit Sakhadeo (MSc, 2021)<br>
-Xutong Zhao (MSc, 2021)<br>
-Cam Linke (MSc, 2020)<br>
-Han Wang (MSc, 2020)<br>
-Niko Yasui (MSc, 2020)<br>
-Andrew Jacobsen (MSc, 2019)<br>
-Banafsheh Rafiee (MSc, 2018)<br>
+## Publications
+
+<!-- To add a publication: click the pencil icon on this file in GitHub, copy a line below, edit it, and commit. -->
+
+### 2026
+
+- Théo Vincent, Kevin Gerhardt, Yogesh Tripathi, Habib Maraqten, Adam White, Martha White, Jan Peters, Carlo D'Eramo. [Gradient Iterated Temporal-Difference Learning](https://arxiv.org/abs/2603.07833). *Reinforcement Learning Journal*.
+- Steven Tang, Eric Xiong, Anna Hakhverdyan, Andrew Patterson, Jacob Adkins, Jiamin He, Esraa Elelimy, Parham Mohammad Panahi, Martha White, Adam White. [Forager: a lightweight testbed for continual learning with partial observability in RL](https://arxiv.org/abs/2605.01131). *Reinforcement Learning Journal*.
+- Ty Lazar, Matthew Vandergrift, Martha White, Adam White. Revisiting FTA: A Sparse One-to-Many Activation for Reinforcement Learning. *Reinforcement Learning Journal*.
+- Jordan Coblin, Han Wang, Martha White, Adam White. Dynamics Models for Offline Hyperparameter Selection in Real-World RL. *Reinforcement Learning Journal*.
+- Parham Mohammad Panahi, Armin Ashrafi, Hongming Du, Andrew Patterson, Martha White, Adam White. Endpoint Replay: Compressing the Recency Buffer in Deep Reinforcement Learning. *Reinforcement Learning Journal*.
+
+### 2025
+
+- Samuel Neumann, Jiamin He, Adam White, Martha White. [Investigating the Utility of Mirror Descent in Off-policy Actor-Critic](https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_211.pdf). *Reinforcement Learning Journal*.
+- Thomas Ferguson, Alona Fyshe, Adam White. [Modelling human exploration with light-weight meta reinforcement learning algorithms](https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_244.pdf). *Reinforcement Learning Journal*.
+- Esraa Elelimy, Brett Daley, Andrew Patterson, Marlos C. Machado, Adam White, Michael Bowling, Martha White. [Deep Reinforcement Learning with Gradient Eligibility Traces](https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_302.pdf). *Reinforcement Learning Journal*.
+- Golnaz Mesbahi, Parham Mohammad Panahi, Olya Mastikhina, Steven Tang, Martha White, Adam White. [Position: Lifetime tuning is incompatible with continual reinforcement learning](https://openreview.net/pdf?id=JMoWFkwnvv). *ICML*.
+- Thomas Ferguson, Alona Fyshe, Adam White. [Electrophysiological signatures of the effect of context on exploration](https://www.sciencedirect.com/science/article/pii/S0006899325000290). *Brain Research*.
+
+### 2024
+
+- Jacob Adkins, Michael Bowling, Adam White. [Method for Evaluating Hyperparameter Sensitivity in Reinforcement Learning](https://openreview.net/pdf?id=4OJdZhcwBb). *NeurIPS*.
+- Esraa Elelimy, Adam White, Michael Bowling, Martha White. [Real-Time Recurrent Learning using Trace Units in Reinforcement Learning](https://openreview.net/pdf?id=4UvMOnZMam). *NeurIPS*.
+- Scott M. Jordan, Adam White, Bruno Castro da Silva, Martha White, Philip S. Thomas. [Position: Benchmarking is Limited in Reinforcement Learning Research](https://openreview.net/pdf?id=Xe7n2ZqpBP). *ICML*.
+- David Rolnick, et al., Adam White. [Position: Application-Driven Innovation in Machine Learning](https://openreview.net/pdf?id=xEB2oF3vvb). *ICML*.
+- Andrew Patterson, Samuel Neumann, Martha White, Adam White. [Empirical Design in Reinforcement Learning](https://jmlr.org/papers/volume25/23-0183/23-0183.pdf). *JMLR*.
+- Chunlok Lo, Kevin Roice, Parham Mohammad Panahi, Scott Jordan, Adam White, Gabor Mihucz, Farzane Aminmansour, Martha White. [Goal-Space Planning with Subgoal Models](https://jmlr.org/papers/volume25/24-0040/24-0040.pdf). *JMLR*.
+- Subhojeet Pramanik, Esraa Elelimy, Marlos C. Machado, Adam White. [AGaLiTe: Approximate Gated Linear Transformers for Online Reinforcement Learning](https://openreview.net/forum?id=lh6vOAHuvo). *TMLR*.
+- Edan Jacob Meyer, Adam White, Marlos C. Machado. [Harnessing Discrete Representations for Continual Reinforcement Learning](https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_84.pdf). *Reinforcement Learning Journal*.
+- Scott M. Jordan, Samuel Neumann, James E. Kostas, Adam White, Philip S. Thomas. [The Cliff of Overcommitment with Policy Gradient Step Sizes](https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_115.pdf). *Reinforcement Learning Journal*.
+- Parham Mohammad Panahi, Andrew Patterson, Martha White, Adam White. [Investigating the Interplay of Prioritized Replay and Generalization](https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_265.pdf). *Reinforcement Learning Journal*.
+- Andrew Patterson, Samuel Neumann, Raksha Kumaraswamy, Martha White, Adam White. [The Cross-environment Hyperparameter Setting Benchmark for Reinforcement Learning](https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_330.pdf). *Reinforcement Learning Journal*.
+- Han Wang, Erfan Miahi, Martha White, Marlos C. Machado, Zaheer Abbas, Raksha Kumaraswamy, Vincent Liu, Adam White. [Investigating the Properties of Neural Network Representations in Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0004370224000365). *Artificial Intelligence*.
+
+### 2023
+
+- Richard S. Sutton, Marlos C. Machado, G. Zacharias Holland, David Szepesvari, Finbarr Timbers, Brian Tanner, Adam White. [Reward-respecting subtasks for model-based reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370223001479). *Artificial Intelligence*.
+- Thomas D. Ferguson, Alona Fyshe, Adam White, Olave E. Krigolson. [Humans adopt different exploration strategies depending on the environment](https://link.springer.com/article/10.1007/s42113-023-00178-1). *Computational Brain & Behavior*.
+- Muhammad Kamran Janjua, Haseeb Shah, Martha White, Erfan Miahi, Marlos C. Machado, Adam White. [GVFs in the Real World: Making Predictions Online for Water Treatment](https://link.springer.com/article/10.1007/s10994-023-06413-x). *Machine Learning Journal*.
+- Ruo Yu Tao, Marlos C. Machado, Adam White. [Agent-State Construction with Auxiliary Inputs](https://openreview.net/forum?id=RLYkyucU6k). *TMLR*.
+- Eugene Chen, Adam White, Nathan R. Sturtevant. [Entropy as a measure of puzzle difficulty](https://dl.acm.org/doi/10.1609/aiide.v19i1.27499). *AIIDE*.
+- Zaheer Abbas, Rosie Zhao, Joseph Modayil, Adam White, Marlos C. Machado. [Loss of Plasticity in Continual Deep Reinforcement Learning](https://proceedings.mlr.press/v232/abbas23a/abbas23a.pdf). *CoLLAs*.
+- Vincent Liu, Han Wang, Ruo Yu Tao, Khurram Javed, Adam White, Martha White. [Measuring and Mitigating Interference in Reinforcement Learning](https://proceedings.mlr.press/v232/liu23a/liu23a.pdf). *CoLLAs*.
+- Banafsheh Rafiee, Sina Ghiassian, Jun Jin, Richard S. Sutton, Jun Luo, Adam White. [Auxiliary task discovery through generate-and-test](https://proceedings.mlr.press/v232/rafiee23a/rafiee23a.pdf). *CoLLAs*.
+- Chenjun Xiao, Han Wang, Yangchen Pan, Adam White, Martha White. [The In-Sample Softmax for Offline Reinforcement Learning](https://openreview.net/forum?id=u-RuvyDYqCM). *ICLR*.
+- Samuel Neumann, Sungsu Lim, Ajin George Joseph, Yangchen Pan, Adam White, Martha White. [Greedy Actor-Critic: A New Conditional Cross-Entropy Method for Policy Improvement](https://openreview.net/forum?id=eSQh8rG8Oa). *ICLR*.
+
+### 2022
+
+- Matthew Schlegel, Volodymyr Tkachuk, Adam White, Martha White. [Investigating Action Encodings in Recurrent Neural Networks in Reinforcement Learning](https://openreview.net/forum?id=K6g4MbAC1r). *TMLR*.
+- Andrew Wang, Archit Sakhadeo, Adam White, James M. Bell, Vincent Liu, Xutong Zhao, Tadashi Kozuno, Alona Fyshe, Adam White. [No More Pesky Hyperparameters: Offline Hyperparameter Tuning for RL](https://openreview.net/pdf?id=AiOUi3440V). *TMLR*.
+- Andrew Patterson, Adam White, Martha White. [A Generalized Projected Bellman Error for Off-policy Value Estimation in Reinforcement Learning](https://www.jmlr.org/papers/volume23/21-037/21-037.pdf). *JMLR*.
+- Banafsheh Rafiee, Zaheer Abbas, Sina Ghiassian, Raksha Kumaraswamy, Richard S. Sutton, Elliot Ludvig, Adam White. [From eye-blinks to state construction: diagnostic benchmarks for online representation learning](https://journals.sagepub.com/doi/pdf/10.1177/10597123221085039). *Adaptive Behavior*.
+- Ray Jiang, Shangtong Zhang, Veronica Chelu, Adam White, Hado van Hasselt. [Learning Expected Emphatic Traces for Deep RL](https://www.aaai.org/AAAI22Papers/AAAI-12882.JiangR.pdf). *AAAI*.
+
+### 2021
+
+- Matthew Schlegel, Andrew Jacobsen, Muhammad Zaheer, Andrew Patterson, Adam White, Martha White. [General value function networks](https://dl.acm.org/doi/abs/10.1613/jair.1.12105). *JAIR*.
+- Matt McLeod, Chunlok Lo, Matthew Schlegel, Andrew Jacobsen, Raksha Kumaraswamy, Martha White, Adam White. [Continual auxiliary task learning](https://proceedings.neurips.cc/paper/2021/file/68331ff0427b551b68e911eebe35233b-Paper.pdf). *NeurIPS*.
+- Ray Jiang, Tom Zahavy, Zhongwen Xu, Adam White, Matteo Hessel, Charles Blundell, Hado van Hasselt. [Emphatic Algorithms for Deep Reinforcement Learning](http://proceedings.mlr.press/v139/jiang21j.html). *ICML*.
+
+### 2020
+
+- Cam Linke, Nadia M. Ady, Martha White, Thomas Degris, Adam White. [Adapting behaviour via intrinsic reward: A survey and empirical study](https://sites.ualberta.ca/~amw8/bandit.pdf). *JAIR*.
+- Sina Ghiassian, Andrew Patterson, Shivam Garg, Dhawal Gupta, Adam White, Martha White. [Gradient Temporal-Difference Learning with Regularized Corrections](http://proceedings.mlr.press/v119/ghiassian20a/ghiassian20a.pdf). *ICML*.
+- Sina Ghiassian, Banafsheh Rafiee, Yat Long Lo, Adam White. [Improving Performance in Reinforcement Learning by Breaking Generalization in Neural Networks](http://ifaamas.org/Proceedings/aamas2020/pdfs/p438.pdf). *AAMAS*.
+- Somjit Nath, Vincent Liu, Alan Chan, Adam White, Martha White. [Training Recurrent Neural Networks Online by Learning Explicit State Variables](https://openreview.net/forum?id=SJgmR0NKPr). *ICLR*.
+
+### 2019 and earlier
+
+- Yi Wan, Muhammad Zaheer, Richard S. Sutton, Adam White, Martha White (2019). [Planning with Expectation Models](https://sites.ualberta.ca/~amw8/nonLinDyna.pdf). *IJCAI*.
+- Banafsheh Rafiee, Sina Ghiassian, Adam White, Richard S. Sutton (2019). [Prediction in Intelligence: An Empirical Comparison of Off-policy Algorithms on Robots](https://sites.ualberta.ca/~amw8/robot_knowledge.pdf). *AAMAS*.
+- Andrew Jacobsen, Matthew Schlegel, Cam Linke, Thomas Degris, Adam White, Martha White (2019). [Meta-descent for online, continual prediction](https://sites.ualberta.ca/~amw8/adagain.pdf). *AAAI*.
+- Raksha Kumaraswamy, Matthew Schlegel, Adam White, Martha White (2018). [Context-dependent upper-confidence bounds for directed exploration](https://sites.ualberta.ca/~amw8/ucls.pdf). *NeurIPS*.
+- Craig Sherstan, Brendan Bennett, Kenny Young, Dylan Ashley, Adam White, Martha White, Richard S. Sutton (2018). [Directly Estimating the Variance of the λ-Return Using Temporal-Difference Methods](https://sites.ualberta.ca/~amw8/var.pdf). *UAI*.
+- Yangchen Pan, Muhammad Zaheer, Adam White, Andrew Patterson, Martha White (2018). [Organizing experience: a deeper look at replay mechanisms for sample-based planning in continuous state domains](https://arxiv.org/abs/1806.04624). *IJCAI*.
+- Yangchen Pan, Adam White, Martha White (2017). [Accelerated Gradient Temporal Difference Learning](https://sites.ualberta.ca/~amw8/aaai.pdf). *AAAI*.
+- Craig Sherstan, Marlos C. Machado, Adam White, Patrick M. Pilarski (2016). [Introspective Agents: Confidence Measures for General Value Functions](https://sites.ualberta.ca/~amw8/agi2016.pdf). *AGI*.
+- Adam White, Martha White (2016). [Investigating practical linear temporal difference learning](https://sites.ualberta.ca/~amw8/htd.pdf). *AAMAS*.
+- Martha White, Adam White (2016). [Adapting the trace parameter in reinforcement learning](https://sites.ualberta.ca/~amw8/lambda.pdf). *AAMAS*.
+- Joseph Modayil, Adam White, Richard S. Sutton (2014). [Multi-timescale Nexting in a Reinforcement Learning Robot](https://sites.ualberta.ca/~amw8/nexting.pdf). *Adaptive Behavior*.
+- Adam White, Joseph Modayil, Richard S. Sutton (2012). [Scaling life-long off-policy learning](https://sites.ualberta.ca/~amw8/scaleoff.pdf). *IEEE ICDL-EpiRob*. **Paper of distinction award**
+- Joseph Modayil, Adam White, Patrick M. Pilarski, Richard S. Sutton (2012). [Acquiring a broad range of empirical knowledge in real time by temporal-difference learning](https://sites.ualberta.ca/~amw8/smc.pdf). *IEEE SMC*.
+- Richard S. Sutton, Joseph Modayil, Michael Delp, Thomas Degris, Patrick M. Pilarski, Adam White, Doina Precup (2011). [Horde: A scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction](https://sites.ualberta.ca/~amw8/horde.pdf). *AAMAS*.
+- Martha White, Adam White (2010). [Interval estimation for reinforcement-learning algorithms in continuous-state domains](https://sites.ualberta.ca/~amw8/interval.pdf). *NeurIPS*.
+- Shimon Whiteson, Brian Tanner, Adam White (2010). [The reinforcement learning competitions](https://sites.ualberta.ca/~amw8/rlcomp.pdf). *AI Magazine*.
+- Brian Tanner, Adam White (2009). [RL-Glue: Language-independent software for reinforcement-learning experiments](https://sites.ualberta.ca/~amw8/rlglue.pdf). *JMLR*.
+- Nathan R. Sturtevant, Adam M. White (2007). [Feature construction for reinforcement learning in hearts](https://sites.ualberta.ca/~amw8/hearts.pdf). *Computers and Games*.
+
+---
 
 ## Teaching
-<a href="https://jmlr.org/papers/v25/23-0183.html">Empirical Design in Reinforcement Learning</a><br>
-<a href="https://www.uab.ca/RLMOOC">Coursera Specialization on Reinforcement Learning</a><br>
 
-INT-D 161: AI Everywhere - Fall 2025: <a href="Fall 2025 INT-D 161 (Section A1) syllabus.pdf"> Section A1 Syllabus (in person)</a>; <a href="Fall 2025 INT-D 161 (Section 800) syllabus.pdf"> Section 800 & 801 Syllabus (online)</a><br>
-<a href="INT-D161_syllabus_2024.pdf">INT-D 161: AI Everywhere - Winter 2025</a><br>
-<a href="INT-D161_syllabus_2024.pdf">INT-D 161: AI Everywhere - Winter 2024</a><br>
-<a href="https://amw8.github.io/grad-rl-one/">CMPUT 655: Reinforcement Learning I - Fall 2022</a><br>
-<a href="https://amw8.github.io/Intro2RL">CMPUT 365: Introduction to Reinforcement Learning I - Fall 2021</a><br>
-<a href="https://amw8.github.io/EmpiricalRL">CMPUT 607: Empirical Reinforcement Learning - Winter 2021</a><br>
-<a href="https://marthawhite.github.io/rlcourse/">CMPUT 397: Reinforcement Learning I - Fall 2019</a><br>
-CMPUT 366: Intelligent Systems - Fall 2018</a>
-<br>
-CMPUT 366: Intelligent Systems - Fall 2017
-<br>
-CMPUT 609: Reinforcement Learning - Fall 2017
-<br>
-<a href="https://iu.instructure.com/courses/1600154">
-CSCI-B 659: Reinforcement learning for Artificial Intelligence - Spring 2017</a>
-<br>
-<a href="https://iu.instructure.com/courses/1517357/pages/home-page">
-CSCI-B 659: Reinforcement learning for Artificial Intelligence - Spring 2016</a>
-<br>
+- [Empirical Design in Reinforcement Learning](https://jmlr.org/papers/v25/23-0183.html)
+- [Coursera Specialization on Reinforcement Learning](https://www.uab.ca/RLMOOC)
+- INT-D 161: AI Everywhere (2024–2025) · CMPUT 655: RL I (2022) · CMPUT 365: Intro to RL (2021) · CMPUT 607: Empirical RL (2021)
 
-## Research
-<bf>Keywords:</bf> 
-<em> Continual Learning, Reinforcement Learning, Robotics, Knowledge Representation and 
-Intrinsic Motivation</em>
-<br><br>
+## Contact
 
-Adam's research is focused on understanding the fundamental principles of learning in both simulated worlds and industrial control applications.
- His research program explores how the problem of intelligence can be modeled as a reinforcement-learning agent continually interacting with some unknown environment, 
-learning from a scalar reward signal, rather than explicit feedback. 
-Adam's group is deeply passionate about good empirical practices and new methodologies to help determine if our algorithms are ready for deployment in the real world. 
-Adam has pioneered applications of reinforcement learning to real drinking and wastewater treatment plants and is the co-founder of RL Core Technologies, 
-a startup applying AI and machine learning across industrial control.
-
-<br><br>
-See <a
-href="https://scholar.google.com/citations?user=1GqGhcsAAAAJ&hl=en&oi=ao"> my
-google scholar page</a> for a list of my
-publications that Google knows about or see the <a
-href="#journal-papers">list below</a> . 
-
-## Journal Papers
-Théo Vincent, Kevin Gerhardt, Yogesh Tripathi, Habib Maraqten,
-Adam White, Martha White, Jan Peters, Carlo D’Eramo (2026). <a href="https://openreview.net/pdf?id=9aTDoQ3Qy1">Gradient Iterated Temporal-Difference Learning</a>. <i>The Reinforcement Learning Journal</i>.
-<br><br>
-
-Steven Tang, Xinze Xiong, Anna Hakhverdyan, Andrew Patterson, Jacob Adkins, Jiamin He, Esraa Elelimy, Parham Mohammad Panahi, Martha White, Adam White (2026). <a href="https://openreview.net/forum?id=yXktec4zxW">Forager: a lightweight testbed for continual learning with partial observability in RL</a>. <i>The Reinforcement Learning Journal</i>.
-<br><br>
-
-Tyler Lazar, Matthew Vandergrift, Martha White, Adam White (2026). <a href="https://openreview.net/forum?id=5O0rsINBRl">Revisiting FTA: A Sparse One-to-Many Activation for Reinforcement Learning</a>. <i>The Reinforcement Learning Journal</i>.
-<br><br>
-
-Jordan Coblin, Han Wang, Martha White, Adam White (2026). <a href="https://openreview.net/forum?id=xLIDSGRJCA">Dynamics Models for Offline Hyperparameter Selection in Real-World RL</a>. <i>The Reinforcement Learning Journal</i>.
-<br><br>
-
-Parham Mohammad Panahi, Armin Ashrafi, Haoyu Du, Andrew Patterson, Martha White, Adam White (2026). <a href="https://openreview.net/forum?id=nrx88Mf0Fm">DEndpoint Replay: Compressing the Recency Buffer in Deep Reinforcement Learning</a>. <i>The Reinforcement Learning Journal</i>.
-<br><br>
-
-Samuel Neumann, Jiamin He, Adam White, and Martha White (2025). <a href="https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_211.pdf">Investigating the Utility of Mirror Descent in Off-policy Actor-Critic</a>. <i>The Reinforcement Learning Journal</i>.
-<br><br>
-
-Thomas Ferguson, Alona Fyshe, and Adam White (2025). <a href="https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_244.pdf">Modelling human exploration with light-weight meta reinforcement learning algorithms</a>. <i>The Reinforcement Learning Journal</i>.
-<br><br>
-
-Esraa Elelimy, Brett Daley, Andrew Patterson, Marlos C. Machado, Adam White, and Martha White (2025). <a href="https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_302.pdf">Deep Reinforcement Learning with Gradient Eligibility Traces</a>. <i>The Reinforcement Learning Journal</i>.
-<br><br>
-
-Ferguson, T., Fyshe, A., White, A. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S0006899325000290?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=154452239&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM539090&utm_source=AC_">Electrophysiological signatures of the effect of context on exploration: Greater attentional and learning signals when exploration is costly</a>. <i>Brain Research</i>.
-<br><br>
-Patterson, A., Neumann, S., White, M., White, A. (2024). <a href="https://jmlr.org/papers/volume25/23-0183/23-0183.pdf">Empirical Design in Reinforcement Learning</a>. <i>Journal of Machine Learning Research</i>.
-<br><br>
-Lo, C., Roice, K., Panahi, P. M., Jordan, S., White, A., Mihucz, G., Aminmansour, F., White, M. (2024). <a href="https://jmlr.org/papers/volume25/24-0040/24-0040.pdf">Goal-Space Planning with Subgoal Models</a>. <i>Journal of Machine Learning Research</i>.
-<br><br>
-Edan Jacob Meyer, Adam White, and Marlos C. Machado (2024). <a href="https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_84.pdf">Harnessing Discrete Representations for Continual Reinforcement Learning</a>. <i>The Reinforcement Learning Journal</i>.
-<br><br>
-Scott M. Jordan, Samuel Neumann, James E. Kostas, Adam White, and Philip S. Thomas (2024). <a href="https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_115.pdf">The Cliff of Overcommitment with Policy Gradient Step Sizes</a>. <i>The Reinforcement Learning Journal</i>.
-<br><br>
-Parham Mohammad Panahi, Andrew Patterson, Martha White, and Adam White (2024). <a href="https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_265.pdf">Investigating the Interplay of Prioritized Replay and Generalization</a>. <i>The Reinforcement Learning Journal</i>.
-<br><br>
-Andrew Patterson, Samuel Neumann, Raksha Kumaraswamy, Martha White, and Adam White (2024). <a href="https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_330.pdf">The Cross-environment Hyperparameter Setting Benchmark for Reinforcement Learning</a>. <i>The Reinforcement Learning Journal</i>.
-<br><br>
-
-
-Wang, H., Miahi, E., White, M., Machado, M. C., Abbas, Z., Kumaraswamy, R., Liu, V., & White, A. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S0004370224000365">Investigating the Properties of Neural Network Representations in Reinforcement Learning.</a> <i>AI Journal</i>.
-<br><br>
-
-Sutton, R. S., Machado, M. C., Holland, G. Z., Timbers, D. S. F., Tanner, B., & White, A. (2023). <a href="https://www.sciencedirect.com/science/article/pii/S0004370223001479">Reward-respecting subtasks for model-based reinforcement learning</a>. <i>AI Journal</i>
-<br><br>
-Ferguson, T. D., Fyshe, A., White, A., Krigolson, O. E. (2023). <a href="https://link.springer.com/article/10.1007/s42113-023-00178-1">Humans adopt different exploration strategies depending on the environment</a>. <i>Computational Brain & Behavior</i>
-<br><br>
-Janjua, M. K., Shah, H., White, M., Miahi, E., Machado, M. C., & White, A. (2023). <a href="https://link.springer.com/article/10.1007/s10994-023-06413-x">GVFs in the Real World: Making Predictions Online for Water Treatment<a/>. <i>Special issue on reinforcement learning for real life. Machine Learning Journal.</i>
-<br><br>
-Tao, R. Y., Machado, M. C., White, A. (2023). <a href="https://openreview.net/forum?id=RLYkyucU6k"> Agent-State Construction with Auxiliary Inputs</a>. <i>Transactions on Machine Learning Research</i>
-<br><br>
-Schlegel, M., Tkachuk, V., White, A. White, M. (2022). <a href="https://openreview.net/forum?id=K6g4MbAC1r"> Investigating Action Encodings in Recurrent Neural Networks in Reinforcement Learning.</a> Transactions on Machine Learning Research.
-<br><br>
-Wang, A., Sakhadeo, A., White, A., Bell, J. M., Liu, V., Zhao, X., Kozuno, T., Fyshe, A., White, A. (2022). <a href="https://openreview.net/pdf?id=AiOUi3440V">No More Pesky Hyperparameters: Offline Hyperparameter Tuning for RL.</a> <i>Transactions on Machine Learning Research.</i>
-<br><br>
-Patterson, A., White, A., White, M. (2022). <a href="https://www.jmlr.org/papers/volume23/21-037/21-037.pdf">A Generalized Projected Bellman Error for Off-policy Value Estimation in Reinforcement Learning.</a> <i>Journal of Machine Learning Research.</i>
-<br><br>
-Rafiee, B., Abbas, Z., Ghiassian, S., Kumaraswamy, R., Sutton, R. S., Ludvig, E. & White, A. (2022). <a href="https://journals.sagepub.com/doi/pdf/10.1177/10597123221085039">From eye-blinks to state construction: diagnostic benchmarks for online representation learning.</a> <i>Adaptive Behavior.</i>
-<br><br>
-Schlegel, M., Jacobsen, A., Zaheer, M., Patterson, A., White, A., & White, M. (2021). <a href="https://dl.acm.org/doi/abs/10.1613/jair.1.12105">General value function networks.<a> <i>Journal of Artificial Intelligence Research.</i>
-<br><br>
-
-Linke, C., Ady, N. M., White, M., Degris, T., & White, A. (2020). <a href="bandit.pdf">Adapting behaviour via intrinsic reward: A survey and empirical study.</a> <i>Journal of Artificial Intelligence Research.</i>
-<br><br>
-
-
-Modayil, J., White, A., Sutton, R. S. (2014). <a
-href="nexting.pdf"> Multi-timescale Nexting
-in a Reinforcement Learning Robot</a>. <i> Adaptive Behavior</i>, 22(2):146--160. 
-<br><br>
-
-Whiteson, S., Tanner, B., & White, A. (2010). <a href="rlcomp.pdf"> The reinforcement
-learning competitions</a>. <i>AI Magazine</i>, 31(2): 81--94.
-<br><br>
-
-Tanner, B., & White, A. (2009). <a href="rlglue.pdf"> RL-Glue: Language-independent software for reinforcement-learning experiments</a>. <i>The Journal of Machine Learning Research</i>, 10: 2133--2136.
-<br><br>
-
-## Conference Papers
-
-Mesbahi, G., Panahi, P. M., Mastikhina, O., Tang, S., White, M., & White, A. (2025). <a href="https://openreview.net/pdf?id=JMoWFkwnvv">Position: Lifetime tuning is incompatible with continual reinforcement learning</a>. <i>International Conference on Machine Learning</i>.
-<br><br>
-
-Adkins, J, Bowling, M., White, A. (2024). <a href="https://openreview.net/pdf?id=4OJdZhcwBb">Method for Evaluating Hyperparameter Sensitivity in Reinforcement Learning</a>. <i>Advances in Neural Information Processing Systems</i>.
-<br><br>
-Elelimy, E., White, A., Bowling, M., White, M. (2024). <a href="https://openreview.net/pdf?id=4UvMOnZMam">Real-Time Recurrent Learning using Trace Units in Reinforcement Learning</a>. <i>Advances in Neural Information Processing Systems</i>.
-<br><br>
-Jordan, S. M, White, A., Castro da Silva, B., White, M., Thomas, P. S. (2024). <a href="https://openreview.net/pdf?id=Xe7n2ZqpBP">Position: Benchmarking is Limited in Reinforcement Learning Research</a>. <i>
-International Conference on Machine Learning.</i>
-<br><br>
-Rolnick, D., Aspuru-Guzik, A., Beery, S., Dilkina, B., Donti, P. L., Ghassemi, M., Kerner, H., Monteleoni, C., Rolf, E., Tambe, M., White. A. (2024) <a href="https://openreview.net/pdf?id=xEB2oF3vvb">Position: Application-Driven Innovation in Machine Learning</a>. 
-<i>International Conference on Machine Learning.</i> 
-<br><br>
-Eugene Chen, Adam White, Nathan R. Sturtevant. (2023). <a href="https://dl.acm.org/doi/10.1609/aiide.v19i1.27499">Entropy as a measure of puzzle difficulty</a>. <i>Artificial Intelligence and Interactive Digital Entertainment.</i>
-<br><br>
-Zaheer Abbas, Rosie Zhao, Joseph Modayil, Adam White, Marlos C. Machado. (2023)  <a href="https://proceedings.mlr.press/v232/abbas23a/abbas23a.pdf"> Loss of Plasticity in Continual Deep Reinforcement Learning</a>. <i>International Conference on Lifelong Learning Agents.</i>
-<br><br>
-Vincent Liu, Han Wang, Ruo Yu Tao, Khurram Javed, Adam White, Martha White. (2023) <a href="https://proceedings.mlr.press/v232/liu23a/liu23a.pdf">Measuring and Mitigating Interference in Reinforcement Learning</a>. <i>International Conference on Lifelong Learning Agents.</i>
-<br><br>
-Banafsheh Rafiee, Sina Ghiassian, Jun Jin, Richard S. Sutton, Jun Luo, Adam White. (2023) <a href="https://proceedings.mlr.press/v232/rafiee23a/rafiee23a.pdf">Auxiliary task discovery through generate-and-test</a>. <i>International Conference on Lifelong Learning Agents.</i>
-<br><br>
-Chenjun Xiao, Han Wang, Yangchen Pan, Adam White, Martha White. (2023). <a href="https://openreview.net/forum?id=u-RuvyDYqCM&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)"> The In-Sample Softmax for Offline Reinforcement Learning.</a> <i>International Conference on Learning Representations.</i>
-<br><br>
-Samuel Neumann, Sungsu Lim, Ajin George Joseph, Yangchen Pan, Adam White, Martha White. (2023). <a href="https://openreview.net/forum?id=eSQh8rG8Oa&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)"> Greedy Actor-Critic: A New Conditional Cross-Entropy Method for Policy Improvement.</a> <i>International Conference on Learning Representations.</i>
-<br><br>
-Jiang, R., Zhang, S., Chelu, V., White, A., & van Hasselt, H. (2022). <a href="https://www.aaai.org/AAAI22Papers/AAAI-12882.JiangR.pdf"> Learning Expected Emphatic Traces for Deep RL</a>. <a>AAAI Conference on Artificial Intelligence.</i>
-<br><br>
-McLeod, M., Lo, C., Schlegel, M., Jacobsen, A., Kumaraswamy, R., White, M., & White, A. (2021). <a href="https://proceedings.neurips.cc/paper/2021/file/68331ff0427b551b68e911eebe35233b-Paper.pdf"> Continual auxiliary task learning</a>. <i>Advances in Neural Information Processing Systems</i>.
-<br><br>
-Jiang, R., Zahavy, T., Xu, Z., White, A., Hessel, M., Blundell, C., van Hasselt, H. (2021). <a href="http://proceedings.mlr.press/v139/jiang21j.html">Emphatic Algorithms for Deep Reinforcement Learning.</a> <i>International Conference on Machine Learning</i>.
-<br><br>
-</h2>
-Ghiassian S., Patterson A., Garg S., Gupta D., White A., White M.(2020). <a href="http://proceedings.mlr.press/v119/ghiassian20a/ghiassian20a.pdf">Gradient Temporal-Difference Learning with Regularized Corrections.</a> <i>International Conference on Machine Learning</i> (ICML).
-<br><br>
-Ghiassian S., Rafiee B., Long Lo Y., White A. (2020).<a href="http://ifaamas.org/Proceedings/aamas2020/pdfs/p438.pdf"> Improving Performance in Reinforcement Learning by Breaking Generalization in Neural Networks</a>. <i>International Conference on Autonomous Agents and Multi-Agent Systems</i> (AAMAS).
-<br><br>
-Nath S, Liu V., Chan A., White A., White M. (2020).<a href="https://openreview.net/forum?id=SJgmR0NKPr"> Training Recurrent Neural Networks Online by Learning Explicit State Variables</a>. <i> International Conference on Learning Representations </i>(ICLR).
-<br><br>
-Wan Y., Zaheer M., Sutton R., White A., White M. (2019).<a href="nonLinDyna.pdf"> Planning with Expectation Models.</a> <i>The International Joint Conference on
-Artificial Intelligence (IJCAI)</i>.
-<br><br>
-Rafiee B., Ghiassian S., White, A., Sutton R. (2019). <a href="robot_knowledge.pdf">Prediction in Intelligence: An Empirical Comparison of Off-policy Algorithms on Robots
-</a>. <i> The 18th International Conference on Autonomous Agents and Multiagent Systems (AAMAS).</i>
-<br><br>
-
-Jacobsen A., Schlegel M., Linke C., Degris T., White, A., White M. (2019). <a href="adagain.pdf">Meta-descent for online, continual prediction
-</a>. <i> AAAI Conference on Artificial Intelligence.</i>
-<br><br>
-
-Kumaraswamy R., Schlegel M., White, A., White M. (2018). <a href="ucls.pdf"> Context-dependent upper-confidence bounds for directed exploration
-</a>. <i> Advances in Neural Information Processing Systems (NIPS)</i>.
-<br><br>
-
-Sherstan C., Bennett B., Young K., Ashley D., White, A., White M., Sutton R. (2018). <a href="var.pdf">Directly Estimating the Variance of the $\lambda$-Return Using Temporal-Difference Methods
-</a>. <i> Conference on Uncertainty in Artificial Intelligence (UAI)</i>.
-<br><br>
-
-Pan Y., Zaheer M., White, A., Patterson A., White M. (2018). <a href="https://arxiv.org/abs/1806.04624">Organizing experience: a deeper look at replay mechanisms for sample-based planning in continuous state domains
-</a>. <i> International Joint Conference on Artificial Intelligence (IJCAI)</i>.
-<br><br>
-
-
-Pan Y., White, A., White M. (2017). <a href="aaai.pdf">Accelerated Gradient Temporal Difference Learning
-</a>. <i> AAAI Conference on Artificial Intelligence (AAAI)</i>.
-<br><br>
-
-Sherstan, C., Machado, M., ,White, A., Patrick P. (2016). <a href="agi2016.pdf"> Introspective Agents: Confidence Measures for General Value 
-Functions</a>, <i> Artificial General Intelligence (AGI)</i>.
-<br><br>
-
-
-White, A., White M. (2016). <a href="htd.pdf">Investigating practical linear temporal difference learning</a>. <i> In International Conference on Autonomous Agents and MultiAgent Systems (AAMAS)</i>. [<a href="juliaDistV2.zip"> CODE </a>]
-<br><br>
-
-White, M., White A. (2016) <a href="lambda.pdf"> Adapting the trace parameter in reinforcement learning</a>, <i> In International Conference on Autonomous Agents and MultiAgent Systems (AAMAS)</i>.
-<br><br>
-
-White, A., Modayil, J., & Sutton, R. S. (2012). <a href="scaleoff.pdf"> Scaling
-life-long off-policy learning</a>. <i> In the IEEE International Conference on Development and Learning and
-Epigenetic Robotics, </i>1--6.
-[<b>paper of distinction award</b>]
-<br><br>
-
-Modayil, J., White, A., Pilarski, P. M., & Sutton, R. S. (2012). <a
-href="smc.pdf"> Acquiring a broad
-range of empirical knowledge in real time by temporal-difference
-learning</a>. <i> In the IEEE International Conference on Systems,
-Man, and Cybernetics,</i> 1903--1910. 
-<br><br>
-
-Modayil, J., White, A., Sutton, R. S. (2012). <a href="sab.pdf"> Multi-timescale Nexting
-in a Reinforcement Learning Robot</a>. <i> Presented at the 2012 International
-Conference on Adaptive Behaviour, Odense, Denmark.</i> To appear in: SAB
-12, LNAI 7426, pp. 299-309, T. Ziemke, C. Balkenius, and J. Hallam,
-Eds., Springer Heidelberg.
-<br><br>
-
-Sutton, R. S., Modayil, J., Delp, M., Degris, T., Pilarski, P. M.,
-White, A., & Precup, D. (2011).<a
-href="horde.pdf"> Horde: A
-scalable real-time architecture for learning knowledge from
-unsupervised sensorimotor interaction</a>. <i> In The 10th
-International Conference on Autonomous Agents and Multiagent
-Systems</i>: 2, 761--768. 
-<br><br>
-
-White, M., & White, A. (2010). <a
-href="interval.pdf"> Interval
-estimation for reinforcement-learning algorithms in continuous-state
-domains</a>. <i> In Advances in Neural Information Processing Systems,</i> 2433--2441.
-<br><br>
-
-Sturtevant, N. R., & White, A. M. (2007). <a
-href="hearts.pdf"> Feature
-construction for reinforcement learning in hearts</a>. <i> In
-Computers and Games </i>. Springer Berlin Heidelberg, 122--134
-<br><br>
-
-
-## Preprints
-
-Ghiassian S., Patterson A., White M.,, Sutton R. S., White A. (2019) <a href="https://arxiv.org/abs/1811.02597">Online Off-policy Prediction. </a>  
-
-## Other published works
-
-Yasui N., Lim S., Linke C., White A., White M. (2019). <a href="exploreICML.pdf"> An Empirical and Conceptual Categorization of
-Value-based Exploration Methods</a>. <i>ICML Exploration in Reinforcement Learning
-Workshop.</i> 
-<br><br>
-Pan Y., White, A., White M. (2017). <a href="ewrl.pdf">Accelerated Gradient Temporal Difference Learning
-</a>. <i> European workshop on reinforcement learning (EWRL)</i>.
-<br><br>
-
-Schlegel M., White, A., White M. (2017). <a href="cldl.pdf">Stable predictive representations with general value functions for continual learning
-</a>. <i> Continual Learning and Deep Networks workshop at the Neural Information Processing System Conference.
-</i>
-<br><br>
-
-
-White, A., & Sutton, R. S. (2014). <a href="GQ.pdf"> GQ (lambda) Quick Reference Guide</a>.
-<br><br>
-
-White, A., Modayil, J., & Sutton, R. S. (2014). <a
-href="surprise.pdf"> Surprise and
-curiosity for big data robotics</a>. <i> In Workshops at the
-Twenty-Eighth AAAI Conference on Artificial Intelligence. </i>
-<br><br>
-
-Modayil, J., White, A., Pilarski, P. M., Sutton, R. S. (2012). <a
-href="erlars.pdf"> Acquiring
-Diverse Predictive Knowledge in Real Time by Temporal-difference
-Learning</a>. <i> International Workshop on Evolutionary and
-Reinforcement Learning for Autonomous Robot Systems,</i> Montpellier, France.
-[<b>Best paper award</b>]
-<br><br>
-
-Modayil, J., Pilarski, P., White, A., Degris, T., & Sutton,
-R. (2010). <a href="rss.pdf"> Off-policy knowledge maintenance for robots</a>. <i> In Proceedings
-of Robotics Science and Systems Workshop  (Towards Closing the Loop:
-Active Learning for Robotics) </i>: 55.
-<br><br>
-
-## Theses
-White, A. (2015) <a href="phd.pdf"> Developing a predictive approach to knowledge</a>. Doctoral thesis, <i> University of Alberta. </i>
-<br><br>
-
-White, A. (2006) A standard system for benchmarking in reinforcement
-learning. Master's thesis, <i> University of Alberta. </i>
-<br><br>
-
-
-
-
-## Contact info
-7-188 University Commmons Building<br>
-Department of Computing Science<br>
-University of Alberta<br>
-Edmonton, Alberta<br>
-Canada<br>
+Office: 7-188 University Commons Building
+Department of Computing Science, University of Alberta, Edmonton, Alberta, Canada
