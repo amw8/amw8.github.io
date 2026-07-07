@@ -1,18 +1,3 @@
-<style>
-.profile-card { display: flex; align-items: center; gap: 34px; flex-wrap: wrap; padding: 32px 36px; margin-bottom: 28px; background: #fff; border: 1px solid #e3e8ee; border-top: 5px solid #275d38; border-radius: 14px; box-shadow: 0 6px 24px rgba(30, 45, 60, 0.08); }
-.profile-card img { width: 160px; height: 160px; border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0 0 0 3px #275d38, 0 6px 18px rgba(30, 45, 60, 0.22); }
-.profile-info { flex: 1; min-width: 270px; }
-.profile-info h1 { margin: 0 0 2px 0; font-size: 2.3em; font-weight: 700; color: #1a2733; letter-spacing: -0.5px; border: none; padding: 0; }
-.profile-info .tagline { margin: 0 0 12px 0; font-size: 0.86em; font-weight: 600; letter-spacing: 1.6px; text-transform: uppercase; color: #275d38; }
-.profile-info .role { margin: 3px 0; color: #4a5a68; font-size: 1.02em; line-height: 1.55; }
-.profile-info .role a { color: #275d38; font-weight: 600; text-decoration: none; border-bottom: 1px solid rgba(39, 93, 56, 0.3); }
-.profile-info .role a:hover { border-bottom-color: #275d38; }
-.profile-links { margin-top: 16px; }
-.profile-links a, .profile-links span { display: inline-block; margin: 3px 8px 3px 0; padding: 6px 15px; font-size: 0.88em; font-weight: 500; color: #275d38; background: #f4f8f5; border: 1px solid #cfe0d4; border-radius: 999px; text-decoration: none; transition: all 0.15s ease; }
-.profile-links a:hover { background: #275d38; color: #fff; border-color: #275d38; }
-.profile-links span { color: #4a5a68; background: #f6f8fa; border-color: #e3e8ee; }
-</style>
-
 <div class="profile-card">
   <img src="adamHead_new.jpg" alt="Adam White">
   <div class="profile-info">
