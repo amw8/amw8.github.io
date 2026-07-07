@@ -29,7 +29,7 @@ If you are interested in joining my group as an MSc student, please message me w
 - Marie Del Valle (MSc)
 - Oliver Diamond (MSc)
 - Cameron Jen (MSc)
-- Anffany Chen (Pdf)
+- Anffany Chen (Postdoc)
 - Ty Lazar (MSc)
 - Baxter Madore (MSc)
 - Parham Mohammad Panahi (PhD)
@@ -42,13 +42,13 @@ If you are interested in joining my group as an MSc student, please message me w
 ## Alumni
 
 - Han Wang (PhD, 2025)
-- Tom Ferguson (Pdf, 2025)
+- Tom Ferguson (Postdoc, 2025)
 - Jacob Adkins (MSc, 2025)
 - Golnaz Mesbahi (MSc, 2024)
 - Parham Mohammad Panahi (MSc, 2024)
 - Kevin Roice (MSc, 2024)
 - Jordan Coblin (MSc, 2024)
-- Banafshe Rafiee (PhD, 2024)
+- Banafsheh Rafiee (PhD, 2024)
 - Matthew Schlegel (PhD, 2023)
 - Eugene Chen (MSc, 2023)
 - Subhojeet Pramanik (MSc, 2023)
@@ -118,7 +118,7 @@ If you are interested in joining my group as an MSc student, please message me w
 ## Conference Papers
 
 - Golnaz Mesbahi, Parham Mohammad Panahi, Olya Mastikhina, Steven Tang, Martha White, Adam White (2025). [Position: Lifetime tuning is incompatible with continual reinforcement learning](https://openreview.net/pdf?id=JMoWFkwnvv). *International Conference on Machine Learning*.
-- Jacob Adkins, Michael Bowling, Adam White (2024). [Method for Evaluating Hyperparameter Sensitivity in Reinforcement Learning](https://openreview.net/pdf?id=4OJdZhcwBb). *Advances in Neural Information Processing Systems*.
+- Jacob Adkins, Michael Bowling, Adam White (2024). [A Method for Evaluating Hyperparameter Sensitivity in Reinforcement Learning](https://openreview.net/pdf?id=4OJdZhcwBb). *Advances in Neural Information Processing Systems*.
 - Esraa Elelimy, Adam White, Michael Bowling, Martha White (2024). [Real-Time Recurrent Learning using Trace Units in Reinforcement Learning](https://openreview.net/pdf?id=4UvMOnZMam). *Advances in Neural Information Processing Systems*.
 - Scott M. Jordan, Adam White, Bruno Castro da Silva, Martha White, Philip S. Thomas (2024). [Position: Benchmarking is Limited in Reinforcement Learning Research](https://openreview.net/pdf?id=Xe7n2ZqpBP). *International Conference on Machine Learning*.
 - David Rolnick, Alán Aspuru-Guzik, Sara Beery, Bistra Dilkina, Priya L. Donti, Marzyeh Ghassemi, Hannah Kerner, Claire Monteleoni, Esther Rolf, Milind Tambe, Adam White (2024). [Position: Application-Driven Innovation in Machine Learning](https://openreview.net/pdf?id=xEB2oF3vvb). *International Conference on Machine Learning*.
