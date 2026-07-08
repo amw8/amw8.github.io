@@ -20,8 +20,13 @@
   <a href="#alumni">Alumni</a>
   <a href="#teaching">Teaching</a>
   <a href="#journal-papers">Papers</a>
+  <a href="#media-and-news">Media/News</a>
   <a href="#contact">Contact</a>
 </nav>
+
+## Bio
+
+Adam White is an Associate Professor of Computing Science at the University of Alberta, a Canada CIFAR AI Chair, a Fellow of the Alberta Machine Intelligence Institute (Amii), and PI of the Reinforcement Learning and Artificial Intelligence Lab. He is also co-founder and Chief Scientific Officer of RLCore, a startup applying reinforcement learning to industrial control. From 2017 to 2023 he was a research scientist at DeepMind. Adam's research investigates how the problem of intelligence can be modeled as a reinforcement-learning agent continually interacting with an unknown environment, learning from a scalar reward rather than explicit feedback. His group is known for its work on empirical methodology in RL and for pioneering deployments of reinforcement learning in real drinking-water and wastewater treatment plants. He co-created the Coursera Reinforcement Learning Specialization, which has reached over 100,000 learners, and holds a PhD from the University of Alberta.
 
 ## Research
 
@@ -178,6 +183,39 @@ If you are interested in joining my group as an MSc student, please message me w
 
 - Adam White (2015). [Developing a predictive approach to knowledge](https://sites.ualberta.ca/~amw8/phd.pdf). Doctoral thesis, University of Alberta.
 - Adam White (2006). A standard system for benchmarking in reinforcement learning. Master's thesis, University of Alberta.
+
+## Media and News
+
+**News & Features**
+
+- [AI pilot project aims to make water treatment greener, more efficient and less expensive](https://www.ualberta.ca/en/folio/2020/10/ai-pilot-project-aims-to-make-water-treatment-greener-more-efficient-and-less-expensive.html). *Folio, University of Alberta*, October 2020.
+- [Artificial intelligence provides sustainable solutions for clean drinking water in rural community](https://cifar.ca/cifarnews/2021/11/29/artificial-intelligence-ai-provides-sustainable-solutions-for-clean-drinking-water-in-rural-community/). *CIFAR News*, November 2021.
+- [Edmonton start-up RL Core Technologies to improve drinking-water treatment using data-driven AI](https://watertoday.ca/ts-wtech-RL-Core-Technologies-to-imrove-drinking-water-treatment-using-data-driven-ai.asp). *WaterToday.ca*, January 2023.
+- [AI makes a splash in water treatment optimization](https://albertainnovates.ca/news/ai-makes-a-splash-in-water-treatment-optimization/). *Alberta Innovates*, March 2024.
+- [Intelligent water treatment](https://fs.mydigitalpublication.co.uk/articles/intelligent-water-treatment). *Filtration+Separation*, July 2024.
+- [Town of Drayton Valley uses AI for water treatment](https://www.abmunis.ca/news/town-drayton-valley-uses-ai-water-treatment). *Alberta Municipalities*, July 2024.
+- [RL Core Technologies closes $5M seed funding](https://www.finsmes.com/2024/12/rl-core-technologies-closes-5m-seed-funding.html). *FinSMEs*, December 2024. [[Official release](https://www.newswire.com/news/rl-core-technologies-announces-successful-close-of-5-million-seed-22479408)]
+- [Optimizing efficiency in water and wastewater management](https://www.alberta-enterprise.ca/resources/impact-stories/rlcore-technologies/). *Alberta Enterprise Corporation*, 2025.
+- [The very boring ways AI is actually changing the world](https://thelogic.co/news/the-very-boring-ways-ai-is-actually-changing-the-world/). *The Logic*, June 2025.
+- [RLCore unveils RLTune: an adaptive optimization platform for water and wastewater infrastructure](https://www.wateronline.com/doc/rlcore-unveils-rltune-an-adaptive-optimization-platform-for-water-and-wastewater-infrastructure-at-ace-0001). *Water Online*, June 2026.
+
+**Talks, Video & Podcasts**
+
+- [TD/RL Intro — Deep Learning and RL Summer School](https://www.youtube.com/watch?v=RancMV1wECg). *Amii / CIFAR*, 2019.
+- [Better Experiments in RL — Deep Learning and RL Summer School](https://www.youtube.com/watch?v=YCU4XiOZTcs). *CIFAR*, 2022.
+- [Continual Subtask Learning](https://rlforum.stanford.edu/p/continual-subtask-learning/). *Stanford RL Forum*, December 2023.
+- [Empirical Design in Reinforcement Learning](https://www.youtube.com/watch?v=BmdnMFw5D1U). *RL and Agents Reading Group*, 2024.
+- [Approximately Correct podcast — Sidebar episodes](https://podcasts.apple.com/us/podcast/sidebar-1-bailey-kacsmar-explains-the-privacy-paradox/id1725553442?i=1000644344973). *Amii*, 2024.
+- [Outstanding Paper Award Winners @ RLC 2025](https://www.talkrl.com/episodes/outstanding-paper-award-winners-rlc-2025). *TalkRL Podcast*, August 2025.
+
+**Announcements**
+
+- [DeepMind expands to Canada with new research office in Edmonton, Alberta](https://deepmind.google/blog/deepmind-expands-to-canada-with-new-research-office-in-edmonton-alberta/). *DeepMind*, July 2017.
+- [Meeting society's AI learning needs](https://www.ualberta.ca/science/news/2019/july/reinforcement-learning-online-course.html). *University of Alberta*, July 2019.
+- [Understanding life-long learning in artificial intelligence](https://www.ualberta.ca/science/news/2019/october/artificial-intelligence-new-professor.html). *University of Alberta*, October 2019.
+- [Five new Canada CIFAR AI Chairs](https://www.amii.ca/updates-insights/five-canada-cifar-chairs-ai-appointed). *Amii*, December 2019. [[2025 renewal](https://www.amii.ca/updates-insights/new-and-renewed-cifar-ai-chairs)]
+- [AI Everywhere: new AI course at U of A](https://www.amii.ca/updates-insights/ai-everywhere). *Amii*, September 2023. [[The Gateway coverage](https://thegatewayonline.ca/2023/09/u-of-a-partnering-with-amii-to-offer-ai-literacy-course/)]
+- [A shared success: how Amii and the U of A drive Alberta's AI leadership](https://www.amii.ca/updates-insights/amii-and-uofa-drive-alberta-ai-leadership). *Amii*, July 2025.
 
 ## Contact
 
