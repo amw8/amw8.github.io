@@ -9,7 +9,7 @@
     <div class="profile-links">
       <a href="mailto:amw8@ualberta.ca">✉ amw8@ualberta.ca</a>
       <a href="https://scholar.google.com/citations?user=1GqGhcsAAAAJ">Google Scholar</a>
-      <a href="https://sites.ualberta.ca/~amw8/cv.pdf">CV</a>
+      <a href="cv.pdf">CV</a>
     </div>
   </div>
 </div>
