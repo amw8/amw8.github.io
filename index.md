@@ -52,10 +52,10 @@ If you are interested in joining my group as an MSc student, please message me w
 
 ## Alumni
 
-- [Anffany Chen](https://sites.ualberta.ca/~anffany/) (Postdoc, 2026)
+- [Anffany Chen](https://www.uhriglab.com/team.html) (Postdoc, 2026) — Postdoctoral Fellow, Uhrig Lab, University of Alberta
 - Cameron Jen (MSc, 2026)
 - [Han Wang](https://hwang-ua.github.io/) (PhD, 2025) — Research Scientist, Deeproute.ai
-- [Tom Ferguson](https://www.thomasdferguson.com/) (Postdoc, 2025) — Postdoctoral Researcher, University of Alberta
+- [Tom Ferguson](https://www.linkedin.com/in/thomas-donald-ferguson/) (Postdoc, 2025) — Data Analyst, CASA Mental Health
 - [Jacob Adkins](https://www.linkedin.com/in/jacob-adkins-331538262/) (MSc, 2025) — PhD student, University of Alberta
 - [Golnaz Mesbahi](https://ca.linkedin.com/in/golnazmes) (MSc, 2024) — Machine Learning Engineer, Amii
 - [Parham Mohammad Panahi](https://panahiparham.github.io/) (MSc, 2024) — PhD student, University of Alberta
@@ -68,16 +68,16 @@ If you are interested in joining my group as an MSc student, please message me w
 - [Edan Meyer](https://www.edanmeyer.com/) (MSc, 2023) — PhD student, University of Alberta
 - [David Tao](https://taodav.cc/) (MSc, 2022) — PhD candidate, Brown University
 - [Samuel Neumann](https://samuelfneumann.github.io/) (MSc, 2022) — PhD student, University of Alberta
-- [Derek Li](https://www.linkedin.com/in/derek-l-6b451925/) (MSc, 2022) — LLM startup researcher
+- [Derek Li](https://www.linkedin.com/in/derek-l-6b451925/) (MSc, 2022) — Researcher, Huawei Noah's Ark Lab
 - [Paul Liu](https://ca.linkedin.com/in/puer-paul-liu) (MSc, 2022) — Software Development Engineer, Amazon
-- [Sina Ghiassian](https://www.linkedin.com/in/sina-ghiassian-23452b61) (PhD, 2022) — Research Scientist, Spotify
+- [Sina Ghiassian](https://www.linkedin.com/in/sina-ghiassian-23452b61) (PhD, 2022) — Machine Learning Manager, Netflix
 - [Raksha Kumaraswamy](https://www.linkedin.com/in/rakshakumaraswamy/) (PhD, 2021) — Research Scientist, Sony AI
 - [Matt McLeod](https://www.linkedin.com/in/matthew-mcleod/) (MSc, 2021) — Data Scientist, Genentech
 - [Archit Sakhadeo](https://architsakhadeo.github.io/) (MSc, 2021) — Software Engineer, CoinTracker
 - [Xutong Zhao](https://tongtongx.github.io/) (MSc, 2021) — PhD student, Mila / Polytechnique Montréal
 - [Cam Linke](https://www.amii.ca/people/cam-linke) (MSc, 2020) — CEO, Amii
 - [Han Wang](https://hwang-ua.github.io/) (MSc, 2020) — Research Scientist, Deeproute.ai
-- [Niko Yasui](https://www.linkedin.com/in/niko-yasui-5b4023106) (MSc, 2020)
+- [Niko Yasui](https://www.amii.ca/people/niko-yasui) (MSc, 2020) — Machine Learning Resident, Amii
 - [Andrew Jacobsen](http://www.andrew-jacobsen.com) (MSc, 2019) — Postdoctoral Researcher, Politecnico di Milano
 - [Banafsheh Rafiee](https://www.linkedin.com/in/banafsheh-rafiee-40a249266/) (MSc, 2018) — Research Scientist, Spotify
 
