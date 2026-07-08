@@ -19,11 +19,7 @@
   <a href="#my-students">Students</a>
   <a href="#alumni">Alumni</a>
   <a href="#teaching">Teaching</a>
-  <a href="#journal-papers">Journal Papers</a>
-  <a href="#conference-papers">Conference Papers</a>
-  <a href="#preprints">Preprints</a>
-  <a href="#other-published-works">Other Works</a>
-  <a href="#theses">Theses</a>
+  <a href="#journal-papers">Papers</a>
   <a href="#contact">Contact</a>
 </nav>
 
@@ -53,7 +49,7 @@ If you are interested in joining my group as an MSc student, please message me w
 ## Alumni
 
 - [Anffany Chen](https://www.uhriglab.com/team.html) (Postdoc, 2026) — Postdoctoral Fellow, Uhrig Lab, University of Alberta
-- Cameron Jen (MSc, 2026)
+- [Cameron Jen](https://www.linkedin.com/in/cameron-jen-b48823211/) (MSc, 2026)
 - [Han Wang](https://hwang-ua.github.io/) (PhD, 2025) — Research Scientist, Deeproute.ai
 - [Tom Ferguson](https://www.linkedin.com/in/thomas-donald-ferguson/) (Postdoc, 2025) — Data Analyst, CASA Mental Health
 - [Jacob Adkins](https://www.linkedin.com/in/jacob-adkins-331538262/) (MSc, 2025) — PhD student, University of Alberta
