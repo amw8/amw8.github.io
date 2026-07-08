@@ -4,7 +4,7 @@
     <h1>Adam White</h1>
     <p class="tagline">Reinforcement Learning · Continual Learning · Real-World AI</p>
     <p class="role">Associate Professor, Department of Computing Science, University of Alberta</p>
-    <p class="role"><a href="https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs">Canada CIFAR AI Chair</a> &nbsp;·&nbsp; Director, <a href="https://amii.ca">Amii</a> &nbsp;·&nbsp; PI, <a href="http://rlai.ualberta.ca/">RLAI Lab</a></p>
+    <p class="role"><a href="https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs">Canada CIFAR AI Chair</a> &nbsp;·&nbsp; Fellow, <a href="https://amii.ca">Amii</a> &nbsp;·&nbsp; PI, <a href="http://rlai.ualberta.ca/">RLAI Lab</a></p>
     <p class="role">Co-founder and Chief Scientific Officer, <a href="https://rlcore.ai">RLCore</a></p>
     <div class="profile-links">
       <a href="mailto:amw8@ualberta.ca">✉ amw8@ualberta.ca</a>
