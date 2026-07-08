@@ -17,3 +17,7 @@
 .profile-links a, .profile-links span { display: inline-block; margin: 3px 8px 3px 0; padding: 6px 15px; font-size: 0.88em; font-weight: 500; color: #275d38; background: #f4f8f5; border: 1px solid #cfe0d4; border-radius: 999px; text-decoration: none; transition: all 0.15s ease; }
 .profile-links a:hover { background: #275d38; color: #fff; border-color: #275d38; }
 .profile-links span { color: #4a5a68; background: #f6f8fa; border-color: #e3e8ee; }
+
+.site-nav { display: flex; flex-wrap: wrap; gap: 4px; padding: 10px 14px; margin-bottom: 34px; background: #f4f8f5; border: 1px solid #dbe6de; border-radius: 10px; }
+.site-nav a { padding: 6px 13px; font-size: 0.92em; font-weight: 600; color: #275d38; text-decoration: none; border-radius: 7px; white-space: nowrap; }
+.site-nav a:hover { background: #275d38; color: #fff; }

@@ -14,6 +14,19 @@
   </div>
 </div>
 
+<nav class="site-nav">
+  <a href="#research">Research</a>
+  <a href="#my-students">Students</a>
+  <a href="#alumni">Alumni</a>
+  <a href="#teaching">Teaching</a>
+  <a href="#journal-papers">Journal Papers</a>
+  <a href="#conference-papers">Conference Papers</a>
+  <a href="#preprints">Preprints</a>
+  <a href="#other-published-works">Other Works</a>
+  <a href="#theses">Theses</a>
+  <a href="#contact">Contact</a>
+</nav>
+
 ## Research
 
 My research focuses on understanding the fundamental principles of learning in both simulated worlds and industrial control applications. I model intelligence as a reinforcement-learning agent continually interacting with an unknown environment, learning from a scalar reward signal. My group is deeply passionate about good empirical practices and methodologies to determine if our algorithms are ready for deployment in the real world. I have pioneered applications of reinforcement learning to real drinking and wastewater treatment plants and am co-founder of RL Core Technologies, a startup applying AI and machine learning across industrial control.
@@ -39,34 +52,34 @@ If you are interested in joining my group as an MSc student, please message me w
 
 ## Alumni
 
-- Anffany Chen (Postdoc, 2026)
+- [Anffany Chen](https://sites.ualberta.ca/~anffany/) (Postdoc, 2026)
 - Cameron Jen (MSc, 2026)
-- Han Wang (PhD, 2025)
-- Tom Ferguson (Postdoc, 2025)
-- Jacob Adkins (MSc, 2025)
-- Golnaz Mesbahi (MSc, 2024)
-- Parham Mohammad Panahi (MSc, 2024)
-- Kevin Roice (MSc, 2024)
-- Jordan Coblin (MSc, 2024)
-- Banafsheh Rafiee (PhD, 2024)
-- Matthew Schlegel (PhD, 2023)
-- Eugene Chen (MSc, 2023)
-- Subhojeet Pramanik (MSc, 2023)
-- Edan Meyer (MSc, 2023)
-- David Tao (MSc, 2022)
-- Samuel Neumann (MSc, 2022)
-- Derek Li (MSc, 2022)
-- Paul Liu (MSc, 2022)
-- Sina Ghiassian (PhD, 2022)
-- Raksha Kumaraswamy (PhD, 2021)
-- Matt McLeod (MSc, 2021)
-- Archit Sakhadeo (MSc, 2021)
-- Xutong Zhao (MSc, 2021)
-- Cam Linke (MSc, 2020)
-- Han Wang (MSc, 2020)
-- Niko Yasui (MSc, 2020)
-- Andrew Jacobsen (MSc, 2019)
-- Banafsheh Rafiee (MSc, 2018)
+- [Han Wang](https://hwang-ua.github.io/) (PhD, 2025) — Research Scientist, Deeproute.ai
+- [Tom Ferguson](https://www.thomasdferguson.com/) (Postdoc, 2025) — Postdoctoral Researcher, University of Alberta
+- [Jacob Adkins](https://www.linkedin.com/in/jacob-adkins-331538262/) (MSc, 2025) — PhD student, University of Alberta
+- [Golnaz Mesbahi](https://ca.linkedin.com/in/golnazmes) (MSc, 2024) — Machine Learning Engineer, Amii
+- [Parham Mohammad Panahi](https://panahiparham.github.io/) (MSc, 2024) — PhD student, University of Alberta
+- [Kevin Roice](https://www.kevinroice.com/) (MSc, 2024) — Machine Learning Engineer, Amii
+- [Jordan Coblin](https://www.linkedin.com/in/jordan-coblin-59237597/) (MSc, 2024) — Applied Scientist, ExperienceFlow.ai
+- [Banafsheh Rafiee](https://www.linkedin.com/in/banafsheh-rafiee-40a249266/) (PhD, 2024) — Research Scientist, Spotify
+- [Matthew Schlegel](https://mkschleg.github.io/) (PhD, 2023) — Postdoctoral Researcher, University of Calgary
+- [Eugene Chen](https://ideaowl.com/) (MSc, 2023) — Independent AI & data-visualization creator
+- [Subhojeet Pramanik](https://www.subho.in/) (MSc, 2023) — AI Researcher, Softmax
+- [Edan Meyer](https://www.edanmeyer.com/) (MSc, 2023) — PhD student, University of Alberta
+- [David Tao](https://taodav.cc/) (MSc, 2022) — PhD candidate, Brown University
+- [Samuel Neumann](https://samuelfneumann.github.io/) (MSc, 2022) — PhD student, University of Alberta
+- [Derek Li](https://www.linkedin.com/in/derek-l-6b451925/) (MSc, 2022) — LLM startup researcher
+- [Paul Liu](https://ca.linkedin.com/in/puer-paul-liu) (MSc, 2022) — Software Development Engineer, Amazon
+- [Sina Ghiassian](https://www.linkedin.com/in/sina-ghiassian-23452b61) (PhD, 2022) — Research Scientist, Spotify
+- [Raksha Kumaraswamy](https://www.linkedin.com/in/rakshakumaraswamy/) (PhD, 2021) — Research Scientist, Sony AI
+- [Matt McLeod](https://www.linkedin.com/in/matthew-mcleod/) (MSc, 2021) — Data Scientist, Genentech
+- [Archit Sakhadeo](https://architsakhadeo.github.io/) (MSc, 2021) — Software Engineer, CoinTracker
+- [Xutong Zhao](https://tongtongx.github.io/) (MSc, 2021) — PhD student, Mila / Polytechnique Montréal
+- [Cam Linke](https://www.amii.ca/people/cam-linke) (MSc, 2020) — CEO, Amii
+- [Han Wang](https://hwang-ua.github.io/) (MSc, 2020) — Research Scientist, Deeproute.ai
+- [Niko Yasui](https://www.linkedin.com/in/niko-yasui-5b4023106) (MSc, 2020)
+- [Andrew Jacobsen](http://www.andrew-jacobsen.com) (MSc, 2019) — Postdoctoral Researcher, Politecnico di Milano
+- [Banafsheh Rafiee](https://www.linkedin.com/in/banafsheh-rafiee-40a249266/) (MSc, 2018) — Research Scientist, Spotify
 
 ## Teaching
 
