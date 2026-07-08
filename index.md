@@ -16,10 +16,10 @@
 
 <nav class="site-nav">
   <a href="#research">Research</a>
+  <a href="#journal-papers">Papers</a>
   <a href="#my-students">Students</a>
   <a href="#alumni">Alumni</a>
   <a href="#teaching">Teaching</a>
-  <a href="#journal-papers">Papers</a>
   <a href="#media-and-news">Media/News</a>
   <a href="#contact">Contact</a>
 </nav>
@@ -33,66 +33,6 @@ Adam White is an Associate Professor of Computing Science at the University of A
 My research focuses on understanding the fundamental principles of learning in both simulated worlds and industrial control applications. I model intelligence as a reinforcement-learning agent continually interacting with an unknown environment, learning from a scalar reward signal. My group is deeply passionate about good empirical practices and methodologies to determine if our algorithms are ready for deployment in the real world. I have pioneered applications of reinforcement learning to real drinking and wastewater treatment plants and am co-founder of RL Core Technologies, a startup applying AI and machine learning across industrial control.
 
 **Keywords:** Continual Learning, Reinforcement Learning, Robotics, Knowledge Representation, Intrinsic Motivation
-
-## My Students
-
-If you are interested in joining my group as an MSc student, please message me with your transcripts (converted to a 4.0 GPA system) and CV. Admission is based on grades, previous research experience, your research statement, and the quality of your reference letters. All students accepted to our MSc program get guaranteed TA funding. If you would like to work with me, mention my favorite TV show *Stargate*.
-
-- Jacob Adkins (PhD)
-- Armin Ashrafi (MSc)
-- Marie Del Valle (MSc)
-- Oliver Diamond (MSc)
-- Ty Lazar (MSc)
-- Baxter Madore (MSc)
-- Parham Mohammad Panahi (PhD)
-- Samuel Neumann (PhD)
-- Sam Scholnick-Hughes (MSc)
-- Steven Tang (MSc)
-- Eric Xiong (MSc)
-- Nathan Zeweniuk (MSc)
-
-## Alumni
-
-- [Anffany Chen](https://www.uhriglab.com/team.html) (Postdoc, 2026) — Postdoctoral Fellow, Uhrig Lab, University of Alberta
-- [Cameron Jen](https://www.linkedin.com/in/cameron-jen-b48823211/) (MSc, 2026)
-- [Han Wang](https://hwang-ua.github.io/) (PhD, 2025) — Research Scientist, Deeproute.ai
-- [Tom Ferguson](https://www.linkedin.com/in/thomas-donald-ferguson/) (Postdoc, 2025) — Data Analyst, CASA Mental Health
-- [Jacob Adkins](https://www.linkedin.com/in/jacob-adkins-331538262/) (MSc, 2025) — PhD student, University of Alberta
-- [Golnaz Mesbahi](https://ca.linkedin.com/in/golnazmes) (MSc, 2024) — Machine Learning Engineer, Amii
-- [Parham Mohammad Panahi](https://panahiparham.github.io/) (MSc, 2024) — PhD student, University of Alberta
-- [Kevin Roice](https://www.kevinroice.com/) (MSc, 2024) — Machine Learning Engineer, Amii
-- [Jordan Coblin](https://www.linkedin.com/in/jordan-coblin-59237597/) (MSc, 2024) — Applied Scientist, ExperienceFlow.ai
-- [Banafsheh Rafiee](https://www.linkedin.com/in/banafsheh-rafiee-40a249266/) (PhD, 2024) — Research Scientist, Spotify
-- [Matthew Schlegel](https://mkschleg.github.io/) (PhD, 2023) — Postdoctoral Researcher, University of Calgary
-- [Eugene Chen](https://ideaowl.com/) (MSc, 2023) — Independent AI & data-visualization creator
-- [Subhojeet Pramanik](https://www.subho.in/) (MSc, 2023) — AI Researcher, Softmax
-- [Edan Meyer](https://www.edanmeyer.com/) (MSc, 2023) — PhD student, University of Alberta
-- [David Tao](https://taodav.cc/) (MSc, 2022) — PhD candidate, Brown University
-- [Samuel Neumann](https://samuelfneumann.github.io/) (MSc, 2022) — PhD student, University of Alberta
-- [Derek Li](https://www.linkedin.com/in/derek-l-6b451925/) (MSc, 2022) — Researcher, Huawei Noah's Ark Lab
-- [Paul Liu](https://ca.linkedin.com/in/puer-paul-liu) (MSc, 2022) — Software Development Engineer, Amazon
-- [Sina Ghiassian](https://www.linkedin.com/in/sina-ghiassian-23452b61) (PhD, 2022) — Machine Learning Manager, Netflix
-- [Raksha Kumaraswamy](https://www.linkedin.com/in/rakshakumaraswamy/) (PhD, 2021) — Research Scientist, Sony AI
-- [Matt McLeod](https://www.linkedin.com/in/matthew-mcleod/) (MSc, 2021) — Data Scientist, Genentech
-- [Archit Sakhadeo](https://architsakhadeo.github.io/) (MSc, 2021) — Software Engineer, CoinTracker
-- [Xutong Zhao](https://tongtongx.github.io/) (MSc, 2021) — PhD student, Mila / Polytechnique Montréal
-- [Cam Linke](https://www.amii.ca/people/cam-linke) (MSc, 2020) — CEO, Amii
-- [Han Wang](https://hwang-ua.github.io/) (MSc, 2020) — Research Scientist, Deeproute.ai
-- [Niko Yasui](https://www.amii.ca/people/niko-yasui) (MSc, 2020) — Machine Learning Resident, Amii
-- [Andrew Jacobsen](http://www.andrew-jacobsen.com) (MSc, 2019) — Postdoctoral Researcher, Politecnico di Milano
-- [Banafsheh Rafiee](https://www.linkedin.com/in/banafsheh-rafiee-40a249266/) (MSc, 2018) — Research Scientist, Spotify
-
-## Teaching
-
-- [Empirical Design in Reinforcement Learning](https://jmlr.org/papers/v25/23-0183.html)
-- [Coursera Specialization on Reinforcement Learning](https://www.uab.ca/RLMOOC)
-- INT-D 161: AI Everywhere — Fall 2025, Winter 2025, Winter 2024
-- [CMPUT 655: Reinforcement Learning I — Fall 2022](https://amw8.github.io/grad-rl-one/)
-- [CMPUT 365: Introduction to Reinforcement Learning I — Fall 2021](https://amw8.github.io/Intro2RL)
-- [CMPUT 607: Empirical Reinforcement Learning — Winter 2021](https://amw8.github.io/EmpiricalRL)
-- [CMPUT 397: Reinforcement Learning I — Fall 2019](https://marthawhite.github.io/rlcourse/)
-- CMPUT 366: Intelligent Systems — Fall 2017, Fall 2018 · CMPUT 609: Reinforcement Learning — Fall 2017
-- CSCI-B 659: Reinforcement Learning for AI — Spring 2016, Spring 2017 (Indiana University)
 
 ## Journal Papers
 
@@ -183,6 +123,66 @@ If you are interested in joining my group as an MSc student, please message me w
 
 - Adam White (2015). [Developing a predictive approach to knowledge](https://sites.ualberta.ca/~amw8/phd.pdf). Doctoral thesis, University of Alberta.
 - Adam White (2006). A standard system for benchmarking in reinforcement learning. Master's thesis, University of Alberta.
+
+## My Students
+
+If you are interested in joining my group as an MSc student, please message me with your transcripts (converted to a 4.0 GPA system) and CV. Admission is based on grades, previous research experience, your research statement, and the quality of your reference letters. All students accepted to our MSc program get guaranteed TA funding. If you would like to work with me, mention my favorite TV show *Stargate*.
+
+- Jacob Adkins (PhD)
+- Armin Ashrafi (MSc)
+- Marie Del Valle (MSc)
+- Oliver Diamond (MSc)
+- Ty Lazar (MSc)
+- Baxter Madore (MSc)
+- Parham Mohammad Panahi (PhD)
+- Samuel Neumann (PhD)
+- Sam Scholnick-Hughes (MSc)
+- Steven Tang (MSc)
+- Eric Xiong (MSc)
+- Nathan Zeweniuk (MSc)
+
+## Alumni
+
+- [Anffany Chen](https://www.uhriglab.com/team.html) (Postdoc, 2026) — Postdoctoral Fellow, Uhrig Lab, University of Alberta
+- [Cameron Jen](https://www.linkedin.com/in/cameron-jen-b48823211/) (MSc, 2026)
+- [Han Wang](https://hwang-ua.github.io/) (PhD, 2025) — Research Scientist, Deeproute.ai
+- [Tom Ferguson](https://www.linkedin.com/in/thomas-donald-ferguson/) (Postdoc, 2025) — Data Analyst, CASA Mental Health
+- [Jacob Adkins](https://www.linkedin.com/in/jacob-adkins-331538262/) (MSc, 2025) — PhD student, University of Alberta
+- [Golnaz Mesbahi](https://ca.linkedin.com/in/golnazmes) (MSc, 2024) — Machine Learning Engineer, Amii
+- [Parham Mohammad Panahi](https://panahiparham.github.io/) (MSc, 2024) — PhD student, University of Alberta
+- [Kevin Roice](https://www.kevinroice.com/) (MSc, 2024) — Machine Learning Engineer, Amii
+- [Jordan Coblin](https://www.linkedin.com/in/jordan-coblin-59237597/) (MSc, 2024) — Applied Scientist, ExperienceFlow.ai
+- [Banafsheh Rafiee](https://www.linkedin.com/in/banafsheh-rafiee-40a249266/) (PhD, 2024) — Research Scientist, Spotify
+- [Matthew Schlegel](https://mkschleg.github.io/) (PhD, 2023) — Postdoctoral Researcher, University of Calgary
+- [Eugene Chen](https://ideaowl.com/) (MSc, 2023) — Independent AI & data-visualization creator
+- [Subhojeet Pramanik](https://www.subho.in/) (MSc, 2023) — AI Researcher, Softmax
+- [Edan Meyer](https://www.edanmeyer.com/) (MSc, 2023) — PhD student, University of Alberta
+- [David Tao](https://taodav.cc/) (MSc, 2022) — PhD candidate, Brown University
+- [Samuel Neumann](https://samuelfneumann.github.io/) (MSc, 2022) — PhD student, University of Alberta
+- [Derek Li](https://www.linkedin.com/in/derek-l-6b451925/) (MSc, 2022) — Researcher, Huawei Noah's Ark Lab
+- [Paul Liu](https://ca.linkedin.com/in/puer-paul-liu) (MSc, 2022) — Software Development Engineer, Amazon
+- [Sina Ghiassian](https://www.linkedin.com/in/sina-ghiassian-23452b61) (PhD, 2022) — Machine Learning Manager, Netflix
+- [Raksha Kumaraswamy](https://www.linkedin.com/in/rakshakumaraswamy/) (PhD, 2021) — Research Scientist, Sony AI
+- [Matt McLeod](https://www.linkedin.com/in/matthew-mcleod/) (MSc, 2021) — Data Scientist, Genentech
+- [Archit Sakhadeo](https://architsakhadeo.github.io/) (MSc, 2021) — Software Engineer, CoinTracker
+- [Xutong Zhao](https://tongtongx.github.io/) (MSc, 2021) — PhD student, Mila / Polytechnique Montréal
+- [Cam Linke](https://www.amii.ca/people/cam-linke) (MSc, 2020) — CEO, Amii
+- [Han Wang](https://hwang-ua.github.io/) (MSc, 2020) — Research Scientist, Deeproute.ai
+- [Niko Yasui](https://www.amii.ca/people/niko-yasui) (MSc, 2020) — Machine Learning Resident, Amii
+- [Andrew Jacobsen](http://www.andrew-jacobsen.com) (MSc, 2019) — Postdoctoral Researcher, Politecnico di Milano
+- [Banafsheh Rafiee](https://www.linkedin.com/in/banafsheh-rafiee-40a249266/) (MSc, 2018) — Research Scientist, Spotify
+
+## Teaching
+
+- [Empirical Design in Reinforcement Learning](https://jmlr.org/papers/v25/23-0183.html)
+- [Coursera Specialization on Reinforcement Learning](https://www.uab.ca/RLMOOC)
+- INT-D 161: AI Everywhere — Fall 2025, Winter 2025, Winter 2024
+- [CMPUT 655: Reinforcement Learning I — Fall 2022](https://amw8.github.io/grad-rl-one/)
+- [CMPUT 365: Introduction to Reinforcement Learning I — Fall 2021](https://amw8.github.io/Intro2RL)
+- [CMPUT 607: Empirical Reinforcement Learning — Winter 2021](https://amw8.github.io/EmpiricalRL)
+- [CMPUT 397: Reinforcement Learning I — Fall 2019](https://marthawhite.github.io/rlcourse/)
+- CMPUT 366: Intelligent Systems — Fall 2017, Fall 2018 · CMPUT 609: Reinforcement Learning — Fall 2017
+- CSCI-B 659: Reinforcement Learning for AI — Spring 2016, Spring 2017 (Indiana University)
 
 ## Media and News
 
