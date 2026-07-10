@@ -135,7 +135,7 @@ If you are interested in joining my group as an MSc student, please message me w
 - Ty Lazar (MSc)
 - Baxter Madore (MSc)
 - Parham Mohammad Panahi (PhD)
-- [Samuel Neumann] (https://samuelfneumann.github.io/) (PhD)
+- [Samuel Neumann](https://samuelfneumann.github.io/) (PhD)
 - Sam Scholnick-Hughes (MSc)
 - Steven Tang (MSc)
 - Eric Xiong (MSc)
