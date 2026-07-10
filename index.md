@@ -132,9 +132,8 @@ If you are interested in joining my group as an MSc student, please message me w
 - Armin Ashrafi (MSc)
 - Marie Del Valle (MSc)
 - Oliver Diamond (MSc)
-- Ty Lazar (MSc)
 - Baxter Madore (MSc)
-- Parham Mohammad Panahi (PhD)
+- [Parham Mohammad Panahi](https://panahiparham.github.io/) (PhD)
 - [Samuel Neumann](https://samuelfneumann.github.io/) (PhD)
 - Sam Scholnick-Hughes (MSc)
 - [Steven Tang](https://steventang.ca/) (MSc)
@@ -143,6 +142,7 @@ If you are interested in joining my group as an MSc student, please message me w
 
 ## Alumni
 
+- [Ty Lazar](https://www.linkedin.com/in/ty-lazar/) (MSc, 2026)
 - [Anffany Chen](https://www.uhriglab.com/team.html) (Postdoc, 2026) — Postdoctoral Fellow, Uhrig Lab, University of Alberta
 - [Cameron Jen](https://www.linkedin.com/in/cameron-jen-b48823211/) (MSc, 2026)
 - [Han Wang](https://hwang-ua.github.io/) (PhD, 2025) — Research Scientist, Deeproute.ai
