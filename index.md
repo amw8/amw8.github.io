@@ -142,9 +142,9 @@ If you are interested in joining my group as an MSc student, please message me w
 
 ## Alumni
 
-- [Ty Lazar](https://www.linkedin.com/in/ty-lazar/) (MSc, 2026)
 - [Anffany Chen](https://www.uhriglab.com/team.html) (Postdoc, 2026) — Postdoctoral Fellow, Uhrig Lab, University of Alberta
 - [Cameron Jen](https://www.linkedin.com/in/cameron-jen-b48823211/) (MSc, 2026)
+- [Ty Lazar](https://www.linkedin.com/in/ty-lazar/) (MSc, 2025)
 - [Han Wang](https://hwang-ua.github.io/) (PhD, 2025) — Research Scientist, Deeproute.ai
 - [Tom Ferguson](https://www.linkedin.com/in/thomas-donald-ferguson/) (Postdoc, 2025) — Data Analyst, CASA Mental Health
 - [Jacob Adkins](https://www.linkedin.com/in/jacob-adkins-331538262/) (MSc, 2025) — PhD student, University of Alberta
