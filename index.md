@@ -137,7 +137,7 @@ If you are interested in joining my group as an MSc student, please message me w
 - Parham Mohammad Panahi (PhD)
 - [Samuel Neumann](https://samuelfneumann.github.io/) (PhD)
 - Sam Scholnick-Hughes (MSc)
-- Steven Tang (MSc)
+- [Steven Tang](https://steventang.ca/) (MSc)
 - Eric Xiong (MSc)
 - Nathan Zeweniuk (MSc)
 
