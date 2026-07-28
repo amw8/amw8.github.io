@@ -180,14 +180,14 @@ A handful of papers that best capture the arc of the lab's work — from foundat
 
 If you are interested in joining my group as an MSc student, please message me with your transcripts (converted to a 4.0 GPA system) and CV. Admission is based on grades, previous research experience, your research statement, and the quality of your reference letters. All students accepted to our MSc program get guaranteed TA funding. If you would like to work with me, mention my favorite TV show *Stargate*.
 
-- Jacob Adkins (PhD)
+- [Jacob Adkins](https://www.linkedin.com/in/jacob-adkins-331538262/) (PhD)
 - Armin Ashrafi (MSc)
 - Marie Del Valle (MSc)
 - Oliver Diamond (MSc)
 - Ty Lazar (MSc)
 - Baxter Madore (MSc)
-- Parham Mohammad Panahi (PhD)
-- Samuel Neumann (PhD)
+- [Parham Mohammad Panahi](https://panahiparham.github.io/) (PhD)
+- [Samuel Neumann](https://samuelfneumann.github.io/) (PhD)
 - Sam Scholnick-Hughes (MSc)
 - Steven Tang (MSc)
 - Eric Xiong (MSc)
