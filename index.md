@@ -189,13 +189,13 @@ Alumni of my lab have gone on to various industry and academic positions.
 ### PhD Alumni
 
 <table class="alumni-table">
-<thead><tr><th>Name</th><th>Years</th><th>Now</th><th></th></tr></thead>
+<thead><tr><th>Name</th><th>Year</th><th>Now</th><th></th></tr></thead>
 <tbody>
-<tr><td><a href="https://hwang-ua.github.io/">Han Wang</a></td><td>PhD '25</td><td>Research Scientist, Deeproute.ai</td><td><span class="tag tag-industry">Industry</span></td></tr>
-<tr><td><a href="https://www.linkedin.com/in/banafsheh-rafiee-40a249266/">Banafsheh Rafiee</a></td><td>PhD '24</td><td>Research Scientist, Spotify</td><td><span class="tag tag-industry">Industry</span></td></tr>
-<tr><td><a href="https://mkschleg.github.io/">Matthew Schlegel</a></td><td>PhD '23</td><td>Postdoctoral Researcher, University of Calgary</td><td><span class="tag tag-academia">Academia</span></td></tr>
-<tr><td><a href="https://www.linkedin.com/in/sina-ghiassian-23452b61">Sina Ghiassian</a></td><td>PhD '22</td><td>Machine Learning Manager, Netflix</td><td><span class="tag tag-industry">Industry</span></td></tr>
-<tr><td><a href="https://www.linkedin.com/in/rakshakumaraswamy/">Raksha Kumaraswamy</a></td><td>PhD '21</td><td>Research Scientist, Sony AI</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://hwang-ua.github.io/">Han Wang</a></td><td>2025</td><td>Research Scientist, Deeproute.ai</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/banafsheh-rafiee-40a249266/">Banafsheh Rafiee</a></td><td>2024</td><td>Research Scientist, Spotify</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://mkschleg.github.io/">Matthew Schlegel</a></td><td>2023</td><td>Postdoctoral Researcher, University of Calgary</td><td><span class="tag tag-academia">Academia</span></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/sina-ghiassian-23452b61">Sina Ghiassian</a></td><td>2022</td><td>Machine Learning Manager, Netflix</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/rakshakumaraswamy/">Raksha Kumaraswamy</a></td><td>2021</td><td>Research Scientist, Sony AI</td><td><span class="tag tag-industry">Industry</span></td></tr>
 </tbody>
 </table>
 
