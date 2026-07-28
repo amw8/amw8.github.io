@@ -22,3 +22,32 @@
 .site-nav.is-stuck { box-shadow: 0 4px 10px rgba(30, 45, 60, 0.1); }
 .site-nav a { font-size: 0.8em; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; color: #6b7a85; text-decoration: none; padding: 2px 0; border-bottom: 2px solid transparent; transition: color 0.15s ease, border-color 0.15s ease; white-space: nowrap; }
 .site-nav a:hover { color: #275d38; border-bottom-color: #275d38; }
+
+/* Real-World Impact highlight box */
+.impact-box { margin: 28px 0 36px; padding: 26px 32px 30px; background: #f6f9fd; border: 1px solid #dbe6f3; border-left: 5px solid #2c5c8f; border-radius: 12px; }
+.impact-box h3 { margin: 0 0 16px 0; font-size: 1.05em; font-weight: 700; letter-spacing: 0.3px; color: #1a2733; border: none; padding: 0; }
+.impact-grid { display: flex; flex-wrap: wrap; gap: 24px; }
+.impact-item { flex: 1 1 260px; min-width: 240px; }
+.impact-item p { margin: 0 0 8px 0; line-height: 1.55; color: #3d4a56; font-size: 0.95em; }
+.impact-item p:first-child { margin-top: 0; }
+.impact-item a { color: #2c5c8f; font-weight: 600; text-decoration: none; font-size: 0.9em; border-bottom: 1px solid rgba(44, 92, 143, 0.35); }
+.impact-item a:hover { border-bottom-color: #2c5c8f; }
+
+/* Accordion for the full publication list */
+details { margin-top: 4px; }
+details > summary { cursor: pointer; list-style: none; font-size: 0.9em; font-weight: 600; color: #275d38; padding: 10px 0; border-top: 1px dashed #d7e2da; user-select: none; }
+details > summary::-webkit-details-marker { display: none; }
+details > summary::before { content: "▸ "; display: inline-block; transition: transform 0.15s ease; }
+details[open] > summary::before { content: "▾ "; }
+details > summary:hover { color: #1a3d26; }
+
+/* Alumni tables */
+.alumni-table { width: 100%; border-collapse: collapse; margin: 14px 0 30px; font-size: 0.93em; }
+.alumni-table th { text-align: left; font-size: 0.75em; font-weight: 700; letter-spacing: 0.8px; text-transform: uppercase; color: #8a97a1; padding: 6px 10px; border-bottom: 1px solid #e3e8ee; }
+.alumni-table td { padding: 9px 10px; border-bottom: 1px solid #eef1f4; vertical-align: middle; color: #3d4a56; }
+.alumni-table tr:last-child td { border-bottom: none; }
+.alumni-table td a { color: #275d38; font-weight: 600; text-decoration: none; }
+.alumni-table td a:hover { border-bottom: 1px solid #275d38; }
+.tag { display: inline-block; padding: 3px 11px; font-size: 0.78em; font-weight: 600; border-radius: 999px; white-space: nowrap; }
+.tag-industry { background: #eef3fb; color: #2c5c8f; }
+.tag-academia { background: #f4f8f5; color: #275d38; }
