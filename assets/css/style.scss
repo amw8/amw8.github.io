@@ -18,6 +18,7 @@
 .profile-links a:hover { background: #275d38; color: #fff; border-color: #275d38; }
 .profile-links span { color: #4a5a68; background: #f6f8fa; border-color: #e3e8ee; }
 
-.site-nav { display: flex; flex-wrap: wrap; gap: 4px 26px; margin: 0 4px 38px; padding-bottom: 12px; border-bottom: 1px solid #e6ebe7; }
+.site-nav { display: flex; flex-wrap: wrap; gap: 4px 26px; margin: 0 4px 38px; padding: 12px 4px; border-bottom: 1px solid #e6ebe7; position: sticky; top: 0; z-index: 10; background: #fff; box-shadow: 0 4px 10px rgba(30, 45, 60, 0); transition: box-shadow 0.2s ease; }
+.site-nav.is-stuck { box-shadow: 0 4px 10px rgba(30, 45, 60, 0.1); }
 .site-nav a { font-size: 0.8em; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; color: #6b7a85; text-decoration: none; padding: 2px 0; border-bottom: 2px solid transparent; transition: color 0.15s ease, border-color 0.15s ease; white-space: nowrap; }
 .site-nav a:hover { color: #275d38; border-bottom-color: #275d38; }
