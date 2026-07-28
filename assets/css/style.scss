@@ -34,12 +34,35 @@
 .impact-item a:hover { border-bottom-color: #2c5c8f; }
 
 /* Accordion for the full publication list */
-details { margin-top: 4px; }
-details > summary { cursor: pointer; list-style: none; font-size: 0.9em; font-weight: 600; color: #275d38; padding: 10px 0; border-top: 1px dashed #d7e2da; user-select: none; }
+details { margin-top: 18px; }
+details > summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.95em;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  color: #275d38;
+  padding: 14px 20px;
+  background: #f4f8f5;
+  border: 1px solid #cfe0d4;
+  border-radius: 10px;
+  user-select: none;
+  transition: background 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
 details > summary::-webkit-details-marker { display: none; }
-details > summary::before { content: "▸ "; display: inline-block; transition: transform 0.15s ease; }
-details[open] > summary::before { content: "▾ "; }
-details > summary:hover { color: #1a3d26; }
+details > summary::before {
+  content: "▸";
+  display: inline-block;
+  font-size: 0.85em;
+  color: #275d38;
+  transition: transform 0.18s ease;
+}
+details[open] > summary::before { transform: rotate(90deg); }
+details > summary:hover { background: #e9f1ea; border-color: #275d38; box-shadow: 0 2px 10px rgba(39, 93, 56, 0.12); }
+details[open] > summary { border-radius: 10px 10px 0 0; margin-bottom: 20px; }
 
 /* Alumni tables */
 .alumni-table { width: 100%; border-collapse: collapse; margin: 14px 0 30px; font-size: 0.93em; }
