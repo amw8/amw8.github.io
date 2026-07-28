@@ -20,7 +20,6 @@ layout: default
 
 <nav class="site-nav">
   <a href="#research">Research</a>
-  <a href="#impact">Impact</a>
   <a href="#publications">Publications</a>
   <a href="#my-students">Students</a>
   <a href="#alumni">Alumni</a>
@@ -32,35 +31,6 @@ layout: default
 ## Bio
 
 Adam White is an Associate Professor of Computing Science at the University of Alberta, a Canada CIFAR AI Chair, a Fellow of the Alberta Machine Intelligence Institute (Amii), and PI of the Reinforcement Learning and Artificial Intelligence Lab. He is also co-founder and Chief Scientific Officer of RLCore, a startup applying reinforcement learning to industrial control. From 2017 to 2023 he was a research scientist at DeepMind. Adam's research investigates how the problem of intelligence can be modeled as a reinforcement-learning agent continually interacting with an unknown environment, learning from a scalar reward rather than explicit feedback. His group is known for its work on empirical methodology in RL and for pioneering deployments of reinforcement learning in real drinking-water and wastewater treatment plants. He co-created the Coursera Reinforcement Learning Specialization, which has reached over 100,000 learners, and holds a PhD from the University of Alberta.
-
-<div class="impact-box" id="impact" markdown="1">
-
-### Real-World Impact
-
-<div class="impact-grid" markdown="1">
-
-<div class="impact-item" markdown="1">
-
-**Drinking-water & wastewater treatment**
-
-Adam's group pioneered some of the first deployments of reinforcement learning directly on live drinking-water and wastewater treatment plants — closing the loop between RL research and real infrastructure rather than simulation. The work has been running in Alberta communities since 2020.
-
-[Folio: AI pilot project aims to make water treatment greener →](https://www.ualberta.ca/en/folio/2020/10/ai-pilot-project-aims-to-make-water-treatment-greener-more-efficient-and-less-expensive.html)
-
-</div>
-
-<div class="impact-item" markdown="1">
-
-**RLCore & RLTune**
-
-As co-founder and Chief Scientific Officer of RLCore, Adam has helped turn this research into a commercial platform. RLCore closed a $5M seed round in 2024 and, in 2026, launched RLTune — an adaptive optimization platform now deployed across water and wastewater infrastructure.
-
-[Water Online: RLCore unveils RLTune →](https://www.wateronline.com/doc/rlcore-unveils-rltune-an-adaptive-optimization-platform-for-water-and-wastewater-infrastructure-at-ace-0001)
-
-</div>
-
-</div>
-</div>
 
 ## Research
 
@@ -74,12 +44,16 @@ My research focuses on understanding the fundamental principles of learning in b
 
 A handful of papers that best capture the arc of the lab's work — from foundational architecture, to empirical methodology, to real-world deployment.
 
-- Richard S. Sutton, Joseph Modayil, Michael Delp, Thomas Degris, Patrick M. Pilarski, Adam White, Doina Precup (2011). [Horde: A scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction](https://dl.acm.org/doi/10.5555/2031678.2031726). *International Conference on Autonomous Agents and Multiagent Systems*. — The general value function (GVF) architecture underlying much of the lab's later work.
-- Adam White, Joseph Modayil, Richard S. Sutton (2012). [Scaling life-long off-policy learning](https://ieeexplore.ieee.org/document/6400860). *IEEE International Conference on Development and Learning and Epigenetic Robotics*. **Paper of distinction award** — Early evidence that off-policy prediction could scale to real robots learning continually.
-- Muhammad Kamran Janjua, Haseeb Shah, Martha White, Erfan Miahi, Marlos C. Machado, Adam White (2023). [GVFs in the Real World: Making Predictions Online for Water Treatment](https://link.springer.com/article/10.1007/s10994-023-06413-x). *Machine Learning*. — The flagship real-world deployment: online prediction running live at a water treatment plant.
-- Richard S. Sutton, Marlos C. Machado, G. Zacharias Holland, David Szepesvari, Finbarr Timbers, Brian Tanner, Adam White (2023). [Reward-respecting subtasks for model-based reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370223001479). *Artificial Intelligence*.
-- Han Wang, Archit Sakhadeo, Adam White, James M. Bell, Vincent Liu, Xutong Zhao, Paul Liu, Tadashi Kozuno, Alona Fyshe, Martha White (2022). [No More Pesky Hyperparameters: Offline Hyperparameter Tuning for RL](https://openreview.net/pdf?id=AiOUi3440V). *Transactions on Machine Learning Research*. — Confronting the hidden cost of hyperparameter tuning that most RL papers never account for.
-- Andrew Patterson, Samuel Neumann, Martha White, Adam White (2024). [Empirical Design in Reinforcement Learning](https://jmlr.org/papers/volume25/23-0183/23-0183.pdf). *Journal of Machine Learning Research*. — A guide to the empirical methodology the lab holds itself to.
+1. Joseph Modayil, Adam White, Richard S. Sutton (2014). [Multi-timescale Nexting in a Reinforcement Learning Robot](https://journals.sagepub.com/doi/10.1177/1059712313511648). *Adaptive Behavior*, 22(2):146–160.
+2. Zaheer Abbas, Rosie Zhao, Joseph Modayil, Adam White, Marlos C. Machado (2023). [Loss of Plasticity in Continual Deep Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:e_rmSamDkqQC). *Conference on Lifelong Learning Agents*.
+3. Brian Tanner, Adam White (2009). [RL-Glue: Language-independent software for reinforcement-learning experiments](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:HoB7MX3m0LUC). *Journal of Machine Learning Research*, 10:2133–2136.
+4. Andrew Patterson, Samuel Neumann, Martha White, Adam White (2024). [Empirical Design in Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:S16KYo8Pm5AC). *Journal of Machine Learning Research*.
+5. Cam Linke, Nadia M. Ady, Martha White, Thomas Degris, Adam White (2020). [Adapting behaviour via intrinsic reward: A survey and empirical study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:-_dYPAW6P2MC). *Journal of Artificial Intelligence Research*.
+6. Han Wang, Erfan Miahi, Martha White, Marlos C. Machado, Zaheer Abbas, Raksha Kumaraswamy, Vincent Liu, Adam White (2024). [Investigating the Properties of Neural Network Representations in Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:gsN89kCJA0AC). *Artificial Intelligence*.
+7. Richard S. Sutton, Marlos C. Machado, G. Zacharias Holland, David Szepesvari, Finbarr Timbers, Brian Tanner, Adam White (2023). [Reward-respecting subtasks for model-based reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:tYavs44e6CUC). *Artificial Intelligence*.
+8. Golnaz Mesbahi, Parham Mohammad Panahi, Olya Mastikhina, Steven Tang, Martha White, Adam White (2025). [Position: Lifetime tuning is incompatible with continual reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&sortby=pubdate&citation_for_view=1GqGhcsAAAAJ:0izLItjtcgwC). *International Conference on Machine Learning*.
+9. Jacob Adkins, Michael Bowling, Adam White (2024). [A Method for Evaluating Hyperparameter Sensitivity in Reinforcement Learning](https://openreview.net/pdf?id=4OJdZhcwBb). *Advances in Neural Information Processing Systems*.
+10. Muhammad Kamran Janjua, Haseeb Shah, Martha White, Erfan Miahi, Marlos C. Machado, Adam White (2023). [GVFs in the Real World: Making Predictions Online for Water Treatment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&sortby=pubdate&citation_for_view=1GqGhcsAAAAJ:foquWX3nUaYC). *Machine Learning*.
 
 <details markdown="1">
 <summary>Show the full chronological list (journal papers, conference papers, preprints, and more)</summary>
@@ -251,15 +225,21 @@ Tracking where the group's alumni land is one of the best measures of a lab's lo
 
 ## Teaching
 
-- [Empirical Design in Reinforcement Learning](https://jmlr.org/papers/v25/23-0183.html)
-- [Coursera Specialization on Reinforcement Learning](https://www.uab.ca/RLMOOC)
-- INT-D 161: AI Everywhere — Fall 2025, Winter 2025, Winter 2024
-- [CMPUT 655: Reinforcement Learning I — Fall 2022](https://amw8.github.io/grad-rl-one/)
-- [CMPUT 365: Introduction to Reinforcement Learning I — Fall 2021](https://amw8.github.io/Intro2RL)
-- [CMPUT 607: Empirical Reinforcement Learning — Winter 2021](https://amw8.github.io/EmpiricalRL)
-- [CMPUT 397: Reinforcement Learning I — Fall 2019](https://marthawhite.github.io/rlcourse/)
-- CMPUT 366: Intelligent Systems — Fall 2017, Fall 2018 · CMPUT 609: Reinforcement Learning — Fall 2017
-- CSCI-B 659: Reinforcement Learning for AI — Spring 2016, Spring 2017 (Indiana University)
+Related resources: [Empirical Design in Reinforcement Learning](https://jmlr.org/papers/v25/23-0183.html) · [Coursera Specialization on Reinforcement Learning](https://www.uab.ca/RLMOOC)
+
+<table class="course-table">
+<thead><tr><th>Course</th><th>Terms</th><th>Institution</th></tr></thead>
+<tbody>
+<tr><td>INT-D 161: AI Everywhere</td><td>Fall 2025, Winter 2025, Winter 2024</td><td>University of Alberta</td></tr>
+<tr><td><a href="https://amw8.github.io/grad-rl-one/">CMPUT 655: Reinforcement Learning I</a></td><td>Fall 2022</td><td>University of Alberta</td></tr>
+<tr><td><a href="https://amw8.github.io/Intro2RL">CMPUT 365: Introduction to Reinforcement Learning I</a></td><td>Fall 2021</td><td>University of Alberta</td></tr>
+<tr><td><a href="https://amw8.github.io/EmpiricalRL">CMPUT 607: Empirical Reinforcement Learning</a></td><td>Winter 2021</td><td>University of Alberta</td></tr>
+<tr><td><a href="https://marthawhite.github.io/rlcourse/">CMPUT 397: Reinforcement Learning I</a></td><td>Fall 2019</td><td>University of Alberta</td></tr>
+<tr><td>CMPUT 366: Intelligent Systems</td><td>Fall 2017, Fall 2018</td><td>University of Alberta</td></tr>
+<tr><td>CMPUT 609: Reinforcement Learning</td><td>Fall 2017</td><td>University of Alberta</td></tr>
+<tr><td>CSCI-B 659: Reinforcement Learning for AI</td><td>Spring 2016, Spring 2017</td><td>Indiana University</td></tr>
+</tbody>
+</table>
 
 ## Media and News
 
