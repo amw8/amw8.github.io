@@ -44,16 +44,17 @@ My research focuses on understanding the fundamental principles of learning in b
 
 A handful of papers that best capture the arc of the lab's work — from foundational architecture, to empirical methodology, to real-world deployment.
 
-1. Joseph Modayil, Adam White, Richard S. Sutton (2014). [Multi-timescale Nexting in a Reinforcement Learning Robot](https://journals.sagepub.com/doi/10.1177/1059712313511648). *Adaptive Behavior*, 22(2):146–160.
-2. Zaheer Abbas, Rosie Zhao, Joseph Modayil, Adam White, Marlos C. Machado (2023). [Loss of Plasticity in Continual Deep Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:e_rmSamDkqQC). *Conference on Lifelong Learning Agents*.
-3. Brian Tanner, Adam White (2009). [RL-Glue: Language-independent software for reinforcement-learning experiments](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:HoB7MX3m0LUC). *Journal of Machine Learning Research*, 10:2133–2136.
-4. Andrew Patterson, Samuel Neumann, Martha White, Adam White (2024). [Empirical Design in Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:S16KYo8Pm5AC). *Journal of Machine Learning Research*.
-5. Cam Linke, Nadia M. Ady, Martha White, Thomas Degris, Adam White (2020). [Adapting behaviour via intrinsic reward: A survey and empirical study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:-_dYPAW6P2MC). *Journal of Artificial Intelligence Research*.
-6. Han Wang, Erfan Miahi, Martha White, Marlos C. Machado, Zaheer Abbas, Raksha Kumaraswamy, Vincent Liu, Adam White (2024). [Investigating the Properties of Neural Network Representations in Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:gsN89kCJA0AC). *Artificial Intelligence*.
-7. Richard S. Sutton, Marlos C. Machado, G. Zacharias Holland, David Szepesvari, Finbarr Timbers, Brian Tanner, Adam White (2023). [Reward-respecting subtasks for model-based reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:tYavs44e6CUC). *Artificial Intelligence*.
-8. Golnaz Mesbahi, Parham Mohammad Panahi, Olya Mastikhina, Steven Tang, Martha White, Adam White (2025). [Position: Lifetime tuning is incompatible with continual reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&sortby=pubdate&citation_for_view=1GqGhcsAAAAJ:0izLItjtcgwC). *International Conference on Machine Learning*.
-9. Jacob Adkins, Michael Bowling, Adam White (2024). [A Method for Evaluating Hyperparameter Sensitivity in Reinforcement Learning](https://openreview.net/pdf?id=4OJdZhcwBb). *Advances in Neural Information Processing Systems*.
-10. Muhammad Kamran Janjua, Haseeb Shah, Martha White, Erfan Miahi, Marlos C. Machado, Adam White (2023). [GVFs in the Real World: Making Predictions Online for Water Treatment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&sortby=pubdate&citation_for_view=1GqGhcsAAAAJ:foquWX3nUaYC). *Machine Learning*.
+1. Golnaz Mesbahi, Parham Mohammad Panahi, Olya Mastikhina, Steven Tang, Martha White, Adam White (2025). [Position: Lifetime tuning is incompatible with continual reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&sortby=pubdate&citation_for_view=1GqGhcsAAAAJ:0izLItjtcgwC). *International Conference on Machine Learning*.
+2. Andrew Patterson, Samuel Neumann, Martha White, Adam White (2024). [Empirical Design in Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:S16KYo8Pm5AC). *Journal of Machine Learning Research*.
+3. Han Wang, Erfan Miahi, Martha White, Marlos C. Machado, Zaheer Abbas, Raksha Kumaraswamy, Vincent Liu, Adam White (2024). [Investigating the Properties of Neural Network Representations in Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:gsN89kCJA0AC). *Artificial Intelligence*.
+4. Jacob Adkins, Michael Bowling, Adam White (2024). [A Method for Evaluating Hyperparameter Sensitivity in Reinforcement Learning](https://openreview.net/pdf?id=4OJdZhcwBb). *Advances in Neural Information Processing Systems*.
+5. Zaheer Abbas, Rosie Zhao, Joseph Modayil, Adam White, Marlos C. Machado (2023). [Loss of Plasticity in Continual Deep Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:e_rmSamDkqQC). *Conference on Lifelong Learning Agents*.
+6. Richard S. Sutton, Marlos C. Machado, G. Zacharias Holland, David Szepesvari, Finbarr Timbers, Brian Tanner, Adam White (2023). [Reward-respecting subtasks for model-based reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:tYavs44e6CUC). *Artificial Intelligence*.
+7. Muhammad Kamran Janjua, Haseeb Shah, Martha White, Erfan Miahi, Marlos C. Machado, Adam White (2023). [GVFs in the Real World: Making Predictions Online for Water Treatment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&sortby=pubdate&citation_for_view=1GqGhcsAAAAJ:foquWX3nUaYC). *Machine Learning*.
+8. Cam Linke, Nadia M. Ady, Martha White, Thomas Degris, Adam White (2020). [Adapting behaviour via intrinsic reward: A survey and empirical study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:-_dYPAW6P2MC). *Journal of Artificial Intelligence Research*.
+9. Adam White (2015). [Developing a predictive approach to knowledge](https://sites.ualberta.ca/~amw8/phd.pdf). Doctoral thesis, University of Alberta.
+10. Joseph Modayil, Adam White, Richard S. Sutton (2014). [Multi-timescale Nexting in a Reinforcement Learning Robot](https://journals.sagepub.com/doi/10.1177/1059712313511648). *Adaptive Behavior*, 22(2):146–160.
+11. Brian Tanner, Adam White (2009). [RL-Glue: Language-independent software for reinforcement-learning experiments](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1GqGhcsAAAAJ&citation_for_view=1GqGhcsAAAAJ:HoB7MX3m0LUC). *Journal of Machine Learning Research*, 10:2133–2136.
 
 <details markdown="1">
 <summary>Show the full chronological list (journal papers, conference papers, preprints, and more)</summary>
@@ -154,6 +155,8 @@ A handful of papers that best capture the arc of the lab's work — from foundat
 
 If you are interested in joining my group as an MSc student, please message me with your transcripts (converted to a 4.0 GPA system) and CV. Admission is based on grades, previous research experience, your research statement, and the quality of your reference letters. All students accepted to our MSc program get guaranteed TA funding. If you would like to work with me, mention my favorite TV show *Stargate*.
 
+<div class="compact-list" markdown="1">
+
 - [Jacob Adkins](https://www.linkedin.com/in/jacob-adkins-331538262/) (PhD)
 - Armin Ashrafi (MSc)
 - Marie Del Valle (MSc)
@@ -167,9 +170,11 @@ If you are interested in joining my group as an MSc student, please message me w
 - Eric Xiong (MSc)
 - Nathan Zeweniuk (MSc)
 
+</div>
+
 ## Alumni
 
-Tracking where the group's alumni land is one of the best measures of a lab's long-term impact — a healthy mix of industry and academia.
+Alumni of my lab have gone on to various industry and academic positions.
 
 ### Postdoctoral Alumni
 
