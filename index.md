@@ -20,7 +20,8 @@ layout: default
 
 <nav class="site-nav">
   <a href="#research">Research</a>
-  <a href="#journal-papers">Papers</a>
+  <a href="#impact">Impact</a>
+  <a href="#publications">Publications</a>
   <a href="#my-students">Students</a>
   <a href="#alumni">Alumni</a>
   <a href="#teaching">Teaching</a>
@@ -32,15 +33,60 @@ layout: default
 
 Adam White is an Associate Professor of Computing Science at the University of Alberta, a Canada CIFAR AI Chair, a Fellow of the Alberta Machine Intelligence Institute (Amii), and PI of the Reinforcement Learning and Artificial Intelligence Lab. He is also co-founder and Chief Scientific Officer of RLCore, a startup applying reinforcement learning to industrial control. From 2017 to 2023 he was a research scientist at DeepMind. Adam's research investigates how the problem of intelligence can be modeled as a reinforcement-learning agent continually interacting with an unknown environment, learning from a scalar reward rather than explicit feedback. His group is known for its work on empirical methodology in RL and for pioneering deployments of reinforcement learning in real drinking-water and wastewater treatment plants. He co-created the Coursera Reinforcement Learning Specialization, which has reached over 100,000 learners, and holds a PhD from the University of Alberta.
 
+<div class="impact-box" id="impact" markdown="1">
+
+### Real-World Impact
+
+<div class="impact-grid" markdown="1">
+
+<div class="impact-item" markdown="1">
+
+**Drinking-water & wastewater treatment**
+
+Adam's group pioneered some of the first deployments of reinforcement learning directly on live drinking-water and wastewater treatment plants — closing the loop between RL research and real infrastructure rather than simulation. The work has been running in Alberta communities since 2020.
+
+[Folio: AI pilot project aims to make water treatment greener →](https://www.ualberta.ca/en/folio/2020/10/ai-pilot-project-aims-to-make-water-treatment-greener-more-efficient-and-less-expensive.html)
+
+</div>
+
+<div class="impact-item" markdown="1">
+
+**RLCore & RLTune**
+
+As co-founder and Chief Scientific Officer of RLCore, Adam has helped turn this research into a commercial platform. RLCore closed a $5M seed round in 2024 and, in 2026, launched RLTune — an adaptive optimization platform now deployed across water and wastewater infrastructure.
+
+[Water Online: RLCore unveils RLTune →](https://www.wateronline.com/doc/rlcore-unveils-rltune-an-adaptive-optimization-platform-for-water-and-wastewater-infrastructure-at-ace-0001)
+
+</div>
+
+</div>
+</div>
+
 ## Research
 
 My research focuses on understanding the fundamental principles of learning in both simulated worlds and industrial control applications. I model intelligence as a reinforcement-learning agent continually interacting with an unknown environment, learning from a scalar reward signal. My group is deeply passionate about good empirical practices and methodologies to determine if our algorithms are ready for deployment in the real world. I have pioneered applications of reinforcement learning to real drinking and wastewater treatment plants and am co-founder of RL Core Technologies, a startup applying AI and machine learning across industrial control.
 
 **Keywords:** Continual Learning, Reinforcement Learning, Robotics, Knowledge Representation, Intrinsic Motivation
 
-## Journal Papers
+## Publications
+
+### Featured Publications
+
+A handful of papers that best capture the arc of the lab's work — from foundational architecture, to empirical methodology, to real-world deployment.
+
+- Richard S. Sutton, Joseph Modayil, Michael Delp, Thomas Degris, Patrick M. Pilarski, Adam White, Doina Precup (2011). [Horde: A scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction](https://dl.acm.org/doi/10.5555/2031678.2031726). *International Conference on Autonomous Agents and Multiagent Systems*. — The general value function (GVF) architecture underlying much of the lab's later work.
+- Adam White, Joseph Modayil, Richard S. Sutton (2012). [Scaling life-long off-policy learning](https://ieeexplore.ieee.org/document/6400860). *IEEE International Conference on Development and Learning and Epigenetic Robotics*. **Paper of distinction award** — Early evidence that off-policy prediction could scale to real robots learning continually.
+- Muhammad Kamran Janjua, Haseeb Shah, Martha White, Erfan Miahi, Marlos C. Machado, Adam White (2023). [GVFs in the Real World: Making Predictions Online for Water Treatment](https://link.springer.com/article/10.1007/s10994-023-06413-x). *Machine Learning*. — The flagship real-world deployment: online prediction running live at a water treatment plant.
+- Richard S. Sutton, Marlos C. Machado, G. Zacharias Holland, David Szepesvari, Finbarr Timbers, Brian Tanner, Adam White (2023). [Reward-respecting subtasks for model-based reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370223001479). *Artificial Intelligence*.
+- Han Wang, Archit Sakhadeo, Adam White, James M. Bell, Vincent Liu, Xutong Zhao, Paul Liu, Tadashi Kozuno, Alona Fyshe, Martha White (2022). [No More Pesky Hyperparameters: Offline Hyperparameter Tuning for RL](https://openreview.net/pdf?id=AiOUi3440V). *Transactions on Machine Learning Research*. — Confronting the hidden cost of hyperparameter tuning that most RL papers never account for.
+- Andrew Patterson, Samuel Neumann, Martha White, Adam White (2024). [Empirical Design in Reinforcement Learning](https://jmlr.org/papers/volume25/23-0183/23-0183.pdf). *Journal of Machine Learning Research*. — A guide to the empirical methodology the lab holds itself to.
+
+<details markdown="1">
+<summary>Show the full chronological list (journal papers, conference papers, preprints, and more)</summary>
 
 <!-- To add a publication: click the pencil icon on this file in GitHub, copy a line, edit it, commit. Newest papers go at the top of the relevant section. -->
+
+#### Journal Papers
 
 - Théo Vincent, Kevin Gerhardt, Yogesh Tripathi, Habib Maraqten, Adam White, Martha White, Jan Peters, Carlo D'Eramo (2026). [Gradient Iterated Temporal-Difference Learning](https://arxiv.org/abs/2603.07833). *Reinforcement Learning Journal*.
 - Steven Tang, Eric Xiong, Anna Hakhverdyan, Andrew Patterson, Jacob Adkins, Jiamin He, Esraa Elelimy, Parham Mohammad Panahi, Martha White, Adam White (2026). [Forager: a lightweight testbed for continual learning with partial observability in RL](https://arxiv.org/abs/2605.01131). *Reinforcement Learning Journal*.
@@ -73,7 +119,7 @@ My research focuses on understanding the fundamental principles of learning in b
 - Shimon Whiteson, Brian Tanner, Adam White (2010). [The reinforcement learning competitions](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2227). *AI Magazine*, 31(2):81–94.
 - Brian Tanner, Adam White (2009). [RL-Glue: Language-independent software for reinforcement-learning experiments](https://www.jmlr.org/papers/v10/tanner09a.html). *Journal of Machine Learning Research*, 10:2133–2136.
 
-## Conference Papers
+#### Conference Papers
 
 - Golnaz Mesbahi, Parham Mohammad Panahi, Olya Mastikhina, Steven Tang, Martha White, Adam White (2025). [Position: Lifetime tuning is incompatible with continual reinforcement learning](https://openreview.net/pdf?id=JMoWFkwnvv). *International Conference on Machine Learning*.
 - Jacob Adkins, Michael Bowling, Adam White (2024). [A Method for Evaluating Hyperparameter Sensitivity in Reinforcement Learning](https://openreview.net/pdf?id=4OJdZhcwBb). *Advances in Neural Information Processing Systems*.
@@ -109,11 +155,11 @@ My research focuses on understanding the fundamental principles of learning in b
 - Martha White, Adam White (2010). [Interval estimation for reinforcement-learning algorithms in continuous-state domains](https://proceedings.neurips.cc/paper/2010/hash/13f3cf8c531952d72e5847c4183e6910-Abstract.html). *Advances in Neural Information Processing Systems*.
 - Nathan R. Sturtevant, Adam M. White (2007). [Feature construction for reinforcement learning in hearts](https://link.springer.com/chapter/10.1007/978-3-540-75538-8_11). *Computers and Games*.
 
-## Preprints
+#### Preprints
 
 - Sina Ghiassian, Andrew Patterson, Martha White, Richard S. Sutton, Adam White (2019). [Online Off-policy Prediction](https://arxiv.org/abs/1811.02597). arXiv.
 
-## Other Published Works
+#### Other Published Works
 
 - Niko Yasui, Sungsu Lim, Cam Linke, Adam White, Martha White (2019). [An Empirical and Conceptual Categorization of Value-based Exploration Methods](https://sites.ualberta.ca/~amw8/exploreICML.pdf). *ICML Exploration in RL Workshop*.
 - Yangchen Pan, Adam White, Martha White (2017). [Accelerated Gradient Temporal Difference Learning](https://sites.ualberta.ca/~amw8/ewrl.pdf). *European Workshop on Reinforcement Learning*.
@@ -123,10 +169,12 @@ My research focuses on understanding the fundamental principles of learning in b
 - Joseph Modayil, Adam White, Patrick M. Pilarski, Richard S. Sutton (2012). [Acquiring Diverse Predictive Knowledge in Real Time by Temporal-difference Learning](https://sites.ualberta.ca/~amw8/erlars.pdf). *ERLARS Workshop*. **Best paper award**
 - Joseph Modayil, Patrick M. Pilarski, Adam White, Thomas Degris, Richard S. Sutton (2010). [Off-policy knowledge maintenance for robots](https://sites.ualberta.ca/~amw8/rss.pdf). *RSS Workshop*.
 
-## Theses
+#### Theses
 
 - Adam White (2015). [Developing a predictive approach to knowledge](https://sites.ualberta.ca/~amw8/phd.pdf). Doctoral thesis, University of Alberta.
 - Adam White (2006). A standard system for benchmarking in reinforcement learning. Master's thesis, University of Alberta.
+
+</details>
 
 ## My Students
 
@@ -147,34 +195,59 @@ If you are interested in joining my group as an MSc student, please message me w
 
 ## Alumni
 
-- [Anffany Chen](https://www.uhriglab.com/team.html) (Postdoc, 2026) — Postdoctoral Fellow, Uhrig Lab, University of Alberta
-- [Cameron Jen](https://www.linkedin.com/in/cameron-jen-b48823211/) (MSc, 2026)
-- [Han Wang](https://hwang-ua.github.io/) (PhD, 2025) — Research Scientist, Deeproute.ai
-- [Tom Ferguson](https://www.linkedin.com/in/thomas-donald-ferguson/) (Postdoc, 2025) — Data Analyst, CASA Mental Health
-- [Jacob Adkins](https://www.linkedin.com/in/jacob-adkins-331538262/) (MSc, 2025) — PhD student, University of Alberta
-- [Golnaz Mesbahi](https://ca.linkedin.com/in/golnazmes) (MSc, 2024) — Machine Learning Engineer, Amii
-- [Parham Mohammad Panahi](https://panahiparham.github.io/) (MSc, 2024) — PhD student, University of Alberta
-- [Kevin Roice](https://www.kevinroice.com/) (MSc, 2024) — Machine Learning Engineer, Amii
-- [Jordan Coblin](https://www.linkedin.com/in/jordan-coblin-59237597/) (MSc, 2024) — Applied Scientist, ExperienceFlow.ai
-- [Banafsheh Rafiee](https://www.linkedin.com/in/banafsheh-rafiee-40a249266/) (PhD, 2024) — Research Scientist, Spotify
-- [Matthew Schlegel](https://mkschleg.github.io/) (PhD, 2023) — Postdoctoral Researcher, University of Calgary
-- [Eugene Chen](https://ideaowl.com/) (MSc, 2023) — Independent AI & data-visualization creator
-- [Subhojeet Pramanik](https://www.subho.in/) (MSc, 2023) — AI Researcher, Softmax
-- [Edan Meyer](https://www.edanmeyer.com/) (MSc, 2023) — PhD student, University of Alberta
-- [David Tao](https://taodav.cc/) (MSc, 2022) — PhD candidate, Brown University
-- [Samuel Neumann](https://samuelfneumann.github.io/) (MSc, 2022) — PhD student, University of Alberta
-- [Derek Li](https://www.linkedin.com/in/derek-l-6b451925/) (MSc, 2022) — Researcher, Huawei Noah's Ark Lab
-- [Paul Liu](https://ca.linkedin.com/in/puer-paul-liu) (MSc, 2022) — Software Development Engineer, Amazon
-- [Sina Ghiassian](https://www.linkedin.com/in/sina-ghiassian-23452b61) (PhD, 2022) — Machine Learning Manager, Netflix
-- [Raksha Kumaraswamy](https://www.linkedin.com/in/rakshakumaraswamy/) (PhD, 2021) — Research Scientist, Sony AI
-- [Matt McLeod](https://www.linkedin.com/in/matthew-mcleod/) (MSc, 2021) — Data Scientist, Genentech
-- [Archit Sakhadeo](https://architsakhadeo.github.io/) (MSc, 2021) — Software Engineer, CoinTracker
-- [Xutong Zhao](https://tongtongx.github.io/) (MSc, 2021) — PhD student, Mila / Polytechnique Montréal
-- [Cam Linke](https://www.amii.ca/people/cam-linke) (MSc, 2020) — CEO, Amii
-- [Han Wang](https://hwang-ua.github.io/) (MSc, 2020) — Research Scientist, Deeproute.ai
-- [Niko Yasui](https://www.amii.ca/people/niko-yasui) (MSc, 2020) — Machine Learning Resident, Amii
-- [Andrew Jacobsen](http://www.andrew-jacobsen.com) (MSc, 2019) — Postdoctoral Researcher, Politecnico di Milano
-- [Banafsheh Rafiee](https://www.linkedin.com/in/banafsheh-rafiee-40a249266/) (MSc, 2018) — Research Scientist, Spotify
+Tracking where the group's alumni land is one of the best measures of a lab's long-term impact — a healthy mix of industry and academia.
+
+### Postdoctoral Alumni
+
+<table class="alumni-table">
+<thead><tr><th>Name</th><th>Years</th><th>Now</th><th></th></tr></thead>
+<tbody>
+<tr><td><a href="https://www.uhriglab.com/team.html">Anffany Chen</a></td><td>2026</td><td>Postdoctoral Fellow, Uhrig Lab, University of Alberta</td><td><span class="tag tag-academia">Academia</span></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/thomas-donald-ferguson/">Tom Ferguson</a></td><td>2025</td><td>Data Analyst, CASA Mental Health</td><td><span class="tag tag-industry">Industry</span></td></tr>
+</tbody>
+</table>
+
+### PhD Alumni
+
+<table class="alumni-table">
+<thead><tr><th>Name</th><th>Years</th><th>Now</th><th></th></tr></thead>
+<tbody>
+<tr><td><a href="https://hwang-ua.github.io/">Han Wang</a></td><td>PhD '25</td><td>Research Scientist, Deeproute.ai</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/banafsheh-rafiee-40a249266/">Banafsheh Rafiee</a></td><td>PhD '24</td><td>Research Scientist, Spotify</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://mkschleg.github.io/">Matthew Schlegel</a></td><td>PhD '23</td><td>Postdoctoral Researcher, University of Calgary</td><td><span class="tag tag-academia">Academia</span></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/sina-ghiassian-23452b61">Sina Ghiassian</a></td><td>PhD '22</td><td>Machine Learning Manager, Netflix</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/rakshakumaraswamy/">Raksha Kumaraswamy</a></td><td>PhD '21</td><td>Research Scientist, Sony AI</td><td><span class="tag tag-industry">Industry</span></td></tr>
+</tbody>
+</table>
+
+### MSc Alumni
+
+<table class="alumni-table">
+<thead><tr><th>Name</th><th>Year</th><th>Now</th><th></th></tr></thead>
+<tbody>
+<tr><td><a href="https://www.linkedin.com/in/cameron-jen-b48823211/">Cameron Jen</a></td><td>2026</td><td>—</td><td></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/jacob-adkins-331538262/">Jacob Adkins</a></td><td>2025</td><td>PhD student, University of Alberta</td><td><span class="tag tag-academia">Academia</span></td></tr>
+<tr><td><a href="https://ca.linkedin.com/in/golnazmes">Golnaz Mesbahi</a></td><td>2024</td><td>Machine Learning Engineer, Amii</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://panahiparham.github.io/">Parham Mohammad Panahi</a></td><td>2024</td><td>PhD student, University of Alberta</td><td><span class="tag tag-academia">Academia</span></td></tr>
+<tr><td><a href="https://www.kevinroice.com/">Kevin Roice</a></td><td>2024</td><td>Machine Learning Engineer, Amii</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/jordan-coblin-59237597/">Jordan Coblin</a></td><td>2024</td><td>Applied Scientist, ExperienceFlow.ai</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://ideaowl.com/">Eugene Chen</a></td><td>2023</td><td>Independent AI & data-visualization creator</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://www.subho.in/">Subhojeet Pramanik</a></td><td>2023</td><td>AI Researcher, Softmax</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://www.edanmeyer.com/">Edan Meyer</a></td><td>2023</td><td>PhD student, University of Alberta</td><td><span class="tag tag-academia">Academia</span></td></tr>
+<tr><td><a href="https://taodav.cc/">David Tao</a></td><td>2022</td><td>PhD candidate, Brown University</td><td><span class="tag tag-academia">Academia</span></td></tr>
+<tr><td><a href="https://samuelfneumann.github.io/">Samuel Neumann</a></td><td>2022</td><td>PhD student, University of Alberta</td><td><span class="tag tag-academia">Academia</span></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/derek-l-6b451925/">Derek Li</a></td><td>2022</td><td>Researcher, Huawei Noah's Ark Lab</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://ca.linkedin.com/in/puer-paul-liu">Paul Liu</a></td><td>2022</td><td>Software Development Engineer, Amazon</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/matthew-mcleod/">Matt McLeod</a></td><td>2021</td><td>Data Scientist, Genentech</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://architsakhadeo.github.io/">Archit Sakhadeo</a></td><td>2021</td><td>Software Engineer, CoinTracker</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://tongtongx.github.io/">Xutong Zhao</a></td><td>2021</td><td>PhD student, Mila / Polytechnique Montréal</td><td><span class="tag tag-academia">Academia</span></td></tr>
+<tr><td><a href="https://www.amii.ca/people/cam-linke">Cam Linke</a></td><td>2020</td><td>CEO, Amii</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://hwang-ua.github.io/">Han Wang</a></td><td>2020</td><td>Research Scientist, Deeproute.ai</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://www.amii.ca/people/niko-yasui">Niko Yasui</a></td><td>2020</td><td>Machine Learning Resident, Amii</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="http://www.andrew-jacobsen.com">Andrew Jacobsen</a></td><td>2019</td><td>Postdoctoral Researcher, Politecnico di Milano</td><td><span class="tag tag-academia">Academia</span></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/banafsheh-rafiee-40a249266/">Banafsheh Rafiee</a></td><td>2018</td><td>Research Scientist, Spotify</td><td><span class="tag tag-industry">Industry</span></td></tr>
+</tbody>
+</table>
 
 ## Teaching
 
