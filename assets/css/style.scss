@@ -24,7 +24,7 @@
 .site-nav a:hover { color: #275d38; border-bottom-color: #275d38; }
 
 /* Accordion for the full publication list */
-details { margin-top: 18px; }
+details { margin: 18px 0 60px; }
 details > summary {
   cursor: pointer;
   list-style: none;
@@ -64,3 +64,11 @@ details[open] > summary { border-radius: 10px 10px 0 0; margin-bottom: 20px; }
 .tag { display: inline-block; padding: 3px 11px; font-size: 0.78em; font-weight: 600; border-radius: 999px; white-space: nowrap; }
 .tag-industry { background: #eef3fb; color: #2c5c8f; }
 .tag-academia { background: #f4f8f5; color: #275d38; }
+
+/* Tighter row spacing for the course table specifically */
+.course-table { margin: 10px 0 24px; }
+.course-table td, .course-table th { padding: 5px 10px; }
+
+/* Compact bullet lists (e.g. My Students) */
+.compact-list ul { margin: 6px 0 0; padding-left: 22px; }
+.compact-list li { margin: 0; padding: 1px 0; line-height: 1.35; }
