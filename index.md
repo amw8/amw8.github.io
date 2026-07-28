@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <div class="profile-card">
   <img src="adamHead_new.jpg" alt="Adam White">
   <div class="profile-info">
@@ -45,7 +49,7 @@ My research focuses on understanding the fundamental principles of learning in b
 - Parham Mohammad Panahi, Armin Ashrafi, Hongming Du, Andrew Patterson, Martha White, Adam White (2026). Endpoint Replay: Compressing the Recency Buffer in Deep Reinforcement Learning. *Reinforcement Learning Journal*.
 - Samuel Neumann, Jiamin He, Adam White, Martha White (2025). [Investigating the Utility of Mirror Descent in Off-policy Actor-Critic](https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_211.pdf). *Reinforcement Learning Journal*.
 - Thomas Ferguson, Alona Fyshe, Adam White (2025). [Modelling human exploration with light-weight meta reinforcement learning algorithms](https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_244.pdf). *Reinforcement Learning Journal*.
-- Esraa Elelimy, Brett Daley, Andrew Patterson, Marlos C. Machado, Adam White, Martha White (2025). [Deep Reinforcement Learning with Gradient Eligibility Traces](https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_302.pdf). *Reinforcement Learning Journal*.
+- Esraa Elelimy, Brett Daley, Andrew Patterson, Marlos C. Machado, Adam White, Michael Bowling, Martha White (2025). [Deep Reinforcement Learning with Gradient Eligibility Traces](https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_302.pdf). *Reinforcement Learning Journal*.
 - Thomas Ferguson, Alona Fyshe, Adam White (2025). [Electrophysiological signatures of the effect of context on exploration: Greater attentional and learning signals when exploration is costly](https://www.sciencedirect.com/science/article/pii/S0006899325000290). *Brain Research*.
 - Subhojeet Pramanik, Esraa Elelimy, Marlos C. Machado, Adam White (2024). [AGaLiTe: Approximate Gated Linear Transformers for Online Reinforcement Learning](https://openreview.net/forum?id=lh6vOAHuvo). *Transactions on Machine Learning Research*.
 - Andrew Patterson, Samuel Neumann, Martha White, Adam White (2024). [Empirical Design in Reinforcement Learning](https://jmlr.org/papers/volume25/23-0183/23-0183.pdf). *Journal of Machine Learning Research*.
@@ -132,11 +136,12 @@ If you are interested in joining my group as an MSc student, please message me w
 - Armin Ashrafi (MSc)
 - Marie Del Valle (MSc)
 - Oliver Diamond (MSc)
+- Ty Lazar (MSc)
 - Baxter Madore (MSc)
-- [Parham Mohammad Panahi](https://panahiparham.github.io/) (PhD)
-- [Samuel Neumann](https://samuelfneumann.github.io/) (PhD)
+- Parham Mohammad Panahi (PhD)
+- Samuel Neumann (PhD)
 - Sam Scholnick-Hughes (MSc)
-- [Steven Tang](https://steventang.ca/) (MSc)
+- Steven Tang (MSc)
 - Eric Xiong (MSc)
 - Nathan Zeweniuk (MSc)
 
@@ -144,7 +149,6 @@ If you are interested in joining my group as an MSc student, please message me w
 
 - [Anffany Chen](https://www.uhriglab.com/team.html) (Postdoc, 2026) — Postdoctoral Fellow, Uhrig Lab, University of Alberta
 - [Cameron Jen](https://www.linkedin.com/in/cameron-jen-b48823211/) (MSc, 2026)
-- [Ty Lazar](https://www.linkedin.com/in/ty-lazar/) (MSc, 2025)
 - [Han Wang](https://hwang-ua.github.io/) (PhD, 2025) — Research Scientist, Deeproute.ai
 - [Tom Ferguson](https://www.linkedin.com/in/thomas-donald-ferguson/) (Postdoc, 2025) — Data Analyst, CASA Mental Health
 - [Jacob Adkins](https://www.linkedin.com/in/jacob-adkins-331538262/) (MSc, 2025) — PhD student, University of Alberta
