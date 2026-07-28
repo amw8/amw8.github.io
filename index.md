@@ -171,7 +171,7 @@ If you are interested in joining my group as an MSc student, please message me w
 - Nathan Zeweniuk (MSc)
 
 </div>
-
+<br><br>
 ## Alumni
 
 Alumni of my lab have gone on to various industry and academic positions.
