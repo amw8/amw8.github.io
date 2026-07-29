@@ -159,15 +159,15 @@ If you are interested in joining my group as an MSc student, please message me w
 
 - [Jacob Adkins](https://scholar.google.com/citations?user=MMKl2FwAAAAJ&hl=en) (PhD)
 - [Armin Ashrafi](https://www.linkedin.com/in/armin-ashrafi-041006183) (MSc)
-- [Marié del Valle Reyes] (https://www.linkedin.com/in/mariedelvalle) (MSc)
-- [Oliver Diamond] (https://www.linkedin.com/in/oliver-diamond-5204671a9) (MSc)
-- [Baxter Madore] (https://www.linkedin.com/in/baxter-madore-0b7a5625b) (MSc)
+- [Marié del Valle Reyes](https://www.linkedin.com/in/mariedelvalle) (MSc)
+- [Oliver Diamond](https://www.linkedin.com/in/oliver-diamond-5204671a9) (MSc)
+- [Baxter Madore](https://www.linkedin.com/in/baxter-madore-0b7a5625b) (MSc)
 - [Parham Mohammad Panahi](https://panahiparham.github.io/) (PhD)
 - [Samuel Neumann](https://samuelfneumann.github.io/) (PhD)
-- [Sam Scholnick-Hughes] (https://www.linkedin.com/in/sam-scholnick-hughes-0a1017283) (MSc)
-- [Steven Tang] (https://steventang.ca/) (MSc)
-- [Eric Xiong] (https://www.linkedin.com/in/ericxiong01/) (MSc)
-- [Nathan Zeweniuk] (https://apps.ualberta.ca/directory/person/nzeweniu) (MSc)
+- [Sam Scholnick-Hughes](https://www.linkedin.com/in/sam-scholnick-hughes-0a1017283) (MSc)
+- [Steven Tang](https://steventang.ca/) (MSc)
+- [Eric Xiong](https://www.linkedin.com/in/ericxiong01/) (MSc)
+- [Nathan Zeweniuk](https://apps.ualberta.ca/directory/person/nzeweniu) (MSc)
 
 </div>
 
