@@ -67,7 +67,15 @@ details[open] > summary { border-radius: 10px 10px 0 0; margin-bottom: 20px; }
 
 /* Tighter row spacing for the course and alumni tables */
 .course-table, .alumni-table { margin: 10px 0 24px; }
-.course-table td, .course-table th, .alumni-table td, .alumni-table th { padding: 5px 10px; }
+.course-table td, .course-table th, .alumni-table td, .alumni-table th { padding: 2px 10px; line-height: 1.2; }
+
+/* Force identical column widths across the three separate Alumni tables so they line up */
+.alumni-table { table-layout: fixed; }
+.alumni-table th:nth-child(1), .alumni-table td:nth-child(1) { width: 22%; }
+.alumni-table th:nth-child(2), .alumni-table td:nth-child(2) { width: 12%; }
+.alumni-table th:nth-child(3), .alumni-table td:nth-child(3) { width: 46%; }
+.alumni-table th:nth-child(4), .alumni-table td:nth-child(4) { width: 20%; }
+.alumni-table td:nth-child(1), .alumni-table td:nth-child(3) { overflow: hidden; text-overflow: ellipsis; }
 
 /* Compact bullet lists (e.g. My Students) */
 .compact-list ul { margin: 6px 0 32px; padding-left: 22px; }
