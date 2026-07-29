@@ -186,6 +186,8 @@ Alumni of my lab have gone on to various industry and academic positions.
 <tbody>
 <tr><td><a href="https://www.uhriglab.com/team.html">Anffany Chen</a></td><td>2026</td><td>Postdoctoral Fellow, Uhrig Lab, University of Alberta</td><td><span class="tag tag-academia">Academia</span></td></tr>
 <tr><td><a href="https://www.linkedin.com/in/thomas-donald-ferguson/">Tom Ferguson</a></td><td>2025</td><td>Data Analyst, CASA Mental Health</td><td><span class="tag tag-industry">Industry</span></td></tr>
+<tr><td><a href="https://emmaajordan.github.io/">Emma Jordan</a></td><td>2024</td><td>Visiting Assistant Professor, University of Pittsburgh</td><td><span class="tag tag-academia">Academia</span></td></tr>
+
 </tbody>
 </table>
 
