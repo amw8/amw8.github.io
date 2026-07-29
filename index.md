@@ -161,7 +161,6 @@ If you are interested in joining my group as an MSc student, please message me w
 - Armin Ashrafi (MSc)
 - Marie Del Valle (MSc)
 - Oliver Diamond (MSc)
-- Ty Lazar (MSc)
 - Baxter Madore (MSc)
 - [Parham Mohammad Panahi](https://panahiparham.github.io/) (PhD)
 - [Samuel Neumann](https://samuelfneumann.github.io/) (PhD)
@@ -210,6 +209,7 @@ Alumni of my lab have gone on to various industry and academic positions.
 <thead><tr><th>Name</th><th>Year</th><th>Now</th><th></th></tr></thead>
 <tbody>
 <tr><td><a href="https://www.linkedin.com/in/cameron-jen-b48823211/">Cameron Jen</a></td><td>2026</td><td>—</td><td></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/ty-lazar/">Ty Lazar</a></td><td>2025</td><td>—</td><td></td></tr>
 <tr><td><a href="https://www.linkedin.com/in/jacob-adkins-331538262/">Jacob Adkins</a></td><td>2025</td><td>PhD student, University of Alberta</td><td><span class="tag tag-academia">Academia</span></td></tr>
 <tr><td><a href="https://ca.linkedin.com/in/golnazmes">Golnaz Mesbahi</a></td><td>2024</td><td>Machine Learning Engineer, Amii</td><td><span class="tag tag-industry">Industry</span></td></tr>
 <tr><td><a href="https://panahiparham.github.io/">Parham Mohammad Panahi</a></td><td>2024</td><td>PhD student, University of Alberta</td><td><span class="tag tag-academia">Academia</span></td></tr>
