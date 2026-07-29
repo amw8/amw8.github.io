@@ -172,15 +172,17 @@ If you are interested in joining my group as an MSc student, please message me w
 
 </div>
 
-
 ## Alumni
 
 Alumni of my lab have gone on to various industry and academic positions.
 
+<details markdown="1">
+<summary>Show all alumni (Postdoctoral, PhD, MSc)</summary>
+
 ### Postdoctoral Alumni
 
 <table class="alumni-table">
-<thead><tr><th>Name</th><th>Years</th><th>Now</th><th></th></tr></thead>
+<thead><tr><th>Name</th><th>Year</th><th>Now</th><th></th></tr></thead>
 <tbody>
 <tr><td><a href="https://www.uhriglab.com/team.html">Anffany Chen</a></td><td>2026</td><td>Postdoctoral Fellow, Uhrig Lab, University of Alberta</td><td><span class="tag tag-academia">Academia</span></td></tr>
 <tr><td><a href="https://www.linkedin.com/in/thomas-donald-ferguson/">Tom Ferguson</a></td><td>2025</td><td>Data Analyst, CASA Mental Health</td><td><span class="tag tag-industry">Industry</span></td></tr>
@@ -228,6 +230,8 @@ Alumni of my lab have gone on to various industry and academic positions.
 <tr><td><a href="https://www.linkedin.com/in/banafsheh-rafiee-40a249266/">Banafsheh Rafiee</a></td><td>2018</td><td>Research Scientist, Spotify</td><td><span class="tag tag-industry">Industry</span></td></tr>
 </tbody>
 </table>
+
+</details>
 
 ## Teaching
 
