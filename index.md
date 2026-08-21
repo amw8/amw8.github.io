@@ -160,7 +160,7 @@ If you are interested in joining my group as an MSc student, please message me w
 - [Jacob Adkins](https://scholar.google.com/citations?user=MMKl2FwAAAAJ&hl=en) (PhD)
 - [Marié del Valle Reyes](https://www.linkedin.com/in/mariedelvalle) (MSc)
 - [Oliver Diamond](https://www.linkedin.com/in/oliver-diamond-5204671a9) (MSc)
-- [Hui Jin]() (MSc)
+- Hui Jin (MSc)
 - [Baxter Madore](https://www.linkedin.com/in/baxter-madore-0b7a5625b) (MSc)
 - [Parham Mohammad Panahi](https://panahiparham.github.io/) (PhD)
 - [Samuel Neumann](https://samuelfneumann.github.io/) (PhD)
