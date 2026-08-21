@@ -63,10 +63,10 @@ A handful of papers that best capture the arc of the lab's work — from foundat
 
 #### Journal Papers
 
-- Théo Vincent, Kevin Gerhardt, Yogesh Tripathi, Habib Maraqten, Adam White, Martha White, Jan Peters, Carlo D'Eramo (2026). [Gradient Iterated Temporal-Difference Learning](https://arxiv.org/abs/2603.07833). *Reinforcement Learning Journal*.
+- Théo Vincent, Kevin Gerhardt, Yogesh Tripathi, Habib Maraqten, Adam White, Martha White, Jan Peters, Carlo D'Eramo (2026). [Gradient Iterated Temporal-Difference Learning](https://arxiv.org/abs/2603.07833) (Outstanding paper award). *Reinforcement Learning Journal*.
 - Steven Tang, Eric Xiong, Anna Hakhverdyan, Andrew Patterson, Jacob Adkins, Jiamin He, Esraa Elelimy, Parham Mohammad Panahi, Martha White, Adam White (2026). [Forager: a lightweight testbed for continual learning with partial observability in RL](https://arxiv.org/abs/2605.01131). *Reinforcement Learning Journal*.
 - Ty Lazar, Matthew Vandergrift, Martha White, Adam White (2026). Revisiting FTA: A Sparse One-to-Many Activation for Reinforcement Learning. *Reinforcement Learning Journal*.
-- Jordan Coblin, Han Wang, Martha White, Adam White (2026). Dynamics Models for Offline Hyperparameter Selection in Real-World RL. *Reinforcement Learning Journal*.
+- Jordan Coblin, Han Wang, Martha White, Adam White (2026). Dynamics Models for Offline Hyperparameter Selection in Real-World RL. (Outstanding paper award) *Reinforcement Learning Journal*.
 - Parham Mohammad Panahi, Armin Ashrafi, Hongming Du, Andrew Patterson, Martha White, Adam White (2026). Endpoint Replay: Compressing the Recency Buffer in Deep Reinforcement Learning. *Reinforcement Learning Journal*.
 - Samuel Neumann, Jiamin He, Adam White, Martha White (2025). [Investigating the Utility of Mirror Descent in Off-policy Actor-Critic](https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_211.pdf). *Reinforcement Learning Journal*.
 - Thomas Ferguson, Alona Fyshe, Adam White (2025). [Modelling human exploration with light-weight meta reinforcement learning algorithms](https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_244.pdf). *Reinforcement Learning Journal*.
