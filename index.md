@@ -158,16 +158,18 @@ If you are interested in joining my group as an MSc student, please message me w
 <div class="compact-list" markdown="1">
 
 - [Jacob Adkins](https://scholar.google.com/citations?user=MMKl2FwAAAAJ&hl=en) (PhD)
-- [Armin Ashrafi](https://www.linkedin.com/in/armin-ashrafi-041006183) (MSc)
 - [Marié del Valle Reyes](https://www.linkedin.com/in/mariedelvalle) (MSc)
 - [Oliver Diamond](https://www.linkedin.com/in/oliver-diamond-5204671a9) (MSc)
+- [Hui Jin]() (MSc)
 - [Baxter Madore](https://www.linkedin.com/in/baxter-madore-0b7a5625b) (MSc)
 - [Parham Mohammad Panahi](https://panahiparham.github.io/) (PhD)
 - [Samuel Neumann](https://samuelfneumann.github.io/) (PhD)
 - [Sam Scholnick-Hughes](https://www.linkedin.com/in/sam-scholnick-hughes-0a1017283) (MSc)
 - [Steven Tang](https://steventang.ca/) (MSc)
+- [Larkin Wisdom](https://www.linkedin.com/in/larkin-wisdom/) (MSc)
 - [Eric Xiong](https://www.linkedin.com/in/ericxiong01/) (MSc)
 - [Nathan Zeweniuk](https://apps.ualberta.ca/directory/person/nzeweniu) (MSc)
+- [Joe Zhang](https://www.linkedin.com/in/zhou-joe-zhang-653a2425b/) (MSc)
 
 </div>
 
@@ -208,6 +210,7 @@ Alumni of my lab have gone on to various industry and academic positions.
 <table class="alumni-table">
 <thead><tr><th>Name</th><th>Year</th><th>Now</th><th></th></tr></thead>
 <tbody>
+<tr><td><a href="https://www.linkedin.com/in/armin-ashrafi-041006183/">Armin Ashrafi</a></td><td>2026</td><td>—</td><td></td></tr>
 <tr><td><a href="https://www.linkedin.com/in/cameron-jen-b48823211/">Cameron Jen</a></td><td>2026</td><td>—</td><td></td></tr>
 <tr><td><a href="https://www.linkedin.com/in/ty-lazar/">Ty Lazar</a></td><td>2025</td><td>—</td><td></td></tr>
 <tr><td><a href="https://www.linkedin.com/in/jacob-adkins-331538262/">Jacob Adkins</a></td><td>2025</td><td>PhD student, University of Alberta</td><td><span class="tag tag-academia">Academia</span></td></tr>
