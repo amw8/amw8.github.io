@@ -153,7 +153,7 @@ A handful of papers that best capture the arc of the lab's work — from foundat
 
 ## My Students
 
-If you are interested in joining my group, please fill out [this form](PUBLIC FORM:  https://docs.google.com/forms/d/e/1FAIpQLScumyIr4TcAWckM5euUm3s4ss-AivIYRqu-RoMafEZBmWPYlQ/viewform). **I will not respond to emails, only the form**. All students accepted to our MSc program get guaranteed TA funding. If you would like to work with me, mention my favorite TV show *Stargate*.
+If you are interested in joining my group, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScumyIr4TcAWckM5euUm3s4ss-AivIYRqu-RoMafEZBmWPYlQ/viewform). **I will not respond to emails, only the form**. All students accepted to our MSc program get guaranteed TA funding. If you would like to work with me, mention my favorite TV show *Stargate*.
 
 <div class="compact-list" markdown="1">
 
