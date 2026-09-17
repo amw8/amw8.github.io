@@ -207,9 +207,9 @@ Alumni of my lab have gone on to various industry and academic positions.
 <table class="alumni-table">
 <thead><tr><th>Name</th><th>Year</th><th>Now</th><th></th></tr></thead>
 <tbody>
-<tr><td><a href="https://steventang.ca/">Steven Tang</a></td><td>2026</td><td>—</td><td></td></tr>
+<tr><td><a href="https://steventang.ca/">Steven Tang</a></td><td>2026</td><td>RA with Adam White</td><td></td></tr>
 <tr><td><a href="https://www.linkedin.com/in/oliver-diamond-5204671a9">Oliver Diamond</a></td><td>2026</td><td>—</td><td></td></tr>
-<tr><td><a href="https://www.linkedin.com/in/armin-ashrafi-041006183/">Armin Ashrafi</a></td><td>2026</td><td>—</td><td></td></tr>
+<tr><td><a href="https://www.linkedin.com/in/armin-ashrafi-041006183/">Armin Ashrafi</a></td><td>2026</td><td>PhD student at Waterloo</td><td></td></tr>
 <tr><td><a href="https://www.linkedin.com/in/cameron-jen-b48823211/">Cameron Jen</a></td><td>2026</td><td>—</td><td></td></tr>
 <tr><td><a href="https://www.linkedin.com/in/ty-lazar/">Ty Lazar</a></td><td>2025</td><td>—</td><td></td></tr>
 <tr><td><a href="https://www.linkedin.com/in/jacob-adkins-331538262/">Jacob Adkins</a></td><td>2025</td><td>PhD student, University of Alberta</td><td><span class="tag tag-academia">Academia</span></td></tr>
