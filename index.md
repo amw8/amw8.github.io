@@ -153,7 +153,7 @@ A handful of papers that best capture the arc of the lab's work — from foundat
 
 ## My Students
 
-If you are interested in joining my group, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScumyIr4TcAWckM5euUm3s4ss-AivIYRqu-RoMafEZBmWPYlQ/viewform). **I will not respond to emails, only the form**. All students accepted to our MSc program get guaranteed TA funding. 
+If you are interested in joining my group, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScumyIr4TcAWckM5euUm3s4ss-AivIYRqu-RoMafEZBmWPYlQ/viewform). **I will not respond to emails, only the form. Do not send emails informing me that you submitted the form. Do not send emails asking if I saw your submission. If you don't hear from me, it means I have decided not to proceed with your application**. All students accepted to our MSc program get guaranteed TA funding. 
 <div class="compact-list" markdown="1">
 
 - [Jacob Adkins](https://scholar.google.com/citations?user=MMKl2FwAAAAJ&hl=en) (PhD)
