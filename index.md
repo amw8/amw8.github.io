@@ -164,7 +164,7 @@ If you are interested in joining my group, please fill out [this form](https://d
 - [Samuel Neumann](https://samuelfneumann.github.io/) (PhD)
 - [Sam Scholnick-Hughes](https://www.linkedin.com/in/sam-scholnick-hughes-0a1017283) (MSc)
 - [Larkin Wisdom](https://www.linkedin.com/in/larkin-wisdom/) (MSc)
-- [Eric Xiong](https://www.linkedin.com/in/ericxiong01/) (MSc)
+- [Eric Xiong](https://www.linkedin.com/in/ericxiong01/) (PhD)
 - [Nathan Zeweniuk](https://apps.ualberta.ca/directory/person/nzeweniu) (MSc)
 - [Joe Zhang](https://www.linkedin.com/in/zhou-joe-zhang-653a2425b/) (MSc)
 
@@ -207,6 +207,7 @@ Alumni of my lab have gone on to various industry and academic positions.
 <table class="alumni-table">
 <thead><tr><th>Name</th><th>Year</th><th>Now</th><th></th></tr></thead>
 <tbody>
+<tr><td><a href="https://www.linkedin.com/in/ericxiong01/">Eric Xiong</a></td><td>2026</td><td>PhD with Adam White</td><td></td></tr>
 <tr><td><a href="https://steventang.ca/">Steven Tang</a></td><td>2026</td><td>RA with Adam White</td><td></td></tr>
 <tr><td><a href="https://www.linkedin.com/in/oliver-diamond-5204671a9">Oliver Diamond</a></td><td>2026</td><td>—</td><td></td></tr>
 <tr><td><a href="https://www.linkedin.com/in/armin-ashrafi-041006183/">Armin Ashrafi</a></td><td>2026</td><td>PhD student at Waterloo</td><td></td></tr>
