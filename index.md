@@ -158,7 +158,7 @@ If you are interested in joining my group, please fill out [this form](https://d
 
 - [Jacob Adkins](https://scholar.google.com/citations?user=MMKl2FwAAAAJ&hl=en) (PhD)
 - [Marié del Valle Reyes](https://www.linkedin.com/in/mariedelvalle) (MSc)
-- Hui Jin (MSc)
+- [Hui Jin](https://huijinrl.github.io/) (MSc)
 - [Baxter Madore](https://www.linkedin.com/in/baxter-madore-0b7a5625b) (MSc)
 - [Parham Mohammad Panahi](https://panahiparham.github.io/) (PhD)
 - [Samuel Neumann](https://samuelfneumann.github.io/) (PhD)
