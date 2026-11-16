@@ -14,7 +14,6 @@ layout: default
       <a href="mailto:amw8@ualberta.ca">✉ amw8@ualberta.ca</a>
       <a href="https://scholar.google.com/citations?user=1GqGhcsAAAAJ">Google Scholar</a>
       <a href="cv.pdf">CV</a>
-      <a href="neurips2026-tutorial/">NeurIPS 2026 Tutorial</a>
     </div>
   </div>
 </div>
@@ -243,7 +242,8 @@ Alumni of my lab have gone on to various industry and academic positions.
 
 ## Teaching
 
-Related resources: [Empirical Design in Reinforcement Learning](https://jmlr.org/papers/v25/23-0183.html) · [Coursera Specialization on Reinforcement Learning](https://www.uab.ca/RLMOOC)
+Related resources: [Empirical Design in Reinforcement Learning](https://jmlr.org/papers/v25/23-0183.html) · [Coursera Specialization on Reinforcement Learning](https://www.uab.ca/RLMOOC) · [NeurIPS 2026 Tutorial](neurips2026-tutorial/)  
+
 
 <table class="course-table">
 <thead><tr><th>Course</th><th>Terms</th><th>Institution</th></tr></thead>
