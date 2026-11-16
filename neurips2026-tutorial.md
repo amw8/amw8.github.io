@@ -10,7 +10,7 @@ permalink: /neurips2026-tutorial/
   <p class="tutorial-kicker">NeurIPS 2026 Tutorial · Sydney</p>
   <h1>Empirical Design in Reinforcement Learning for Physical AI</h1>
   <p class="tutorial-speakers"><a href="{{ '/' | relative_url }}">Adam White</a> · <a href="https://marthawhite.github.io/">Martha White</a> · <a href="https://andnp.github.io/">Andrew Patterson</a></p>
-  <p class="tutorial-helpers">Hands-on sessions led by Andrew Patterson and Esraa Elelimy</p>
+  <p class="tutorial-helpers">Hands-on sessions led by <a href="https://andnp.github.io/">Andrew Patterson</a> and <a href="https://esraaelelimy.github.io/">Esraa Elelimy</a> · Colab notebooks created by <a href="https://esraaelelimy.github.io/">Esraa Elelimy</a>, <a href="https://hejm37.github.io/">Jiamin He</a> and <a href="https://samuelfneumann.github.io/about/">Samuel Neumann</a></p>
   <div class="profile-links">
     <span>Mon, Dec 7, 2026</span>
     <span>9:00 AM – 12:00 PM AEDT</span>
