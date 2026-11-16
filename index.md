@@ -242,7 +242,7 @@ Alumni of my lab have gone on to various industry and academic positions.
 
 ## Teaching
 
-Related resources: [Empirical Design in Reinforcement Learning](https://jmlr.org/papers/v25/23-0183.html) · [Coursera Specialization on Reinforcement Learning](https://www.uab.ca/RLMOOC) · [NeurIPS 2026 Tutorial](neurips2026-tutorial/)  
+Related resources: [Empirical Design in Reinforcement Learning](https://jmlr.org/papers/v25/23-0183.html) · [Coursera Specialization on Reinforcement Learning](https://www.uab.ca/RLMOOC) · [NeurIPS 2026 Tutorial](https://github.com/amw8/amw8.github.io/blob/main/neurips2026-tutorial)  
 
 
 <table class="course-table">
