@@ -80,3 +80,27 @@ details[open] > summary { border-radius: 10px 10px 0 0; margin-bottom: 20px; }
 /* Compact bullet lists (e.g. My Students) */
 .compact-list ul { margin: 6px 0 32px; padding-left: 22px; }
 .compact-list li { margin: 0; padding: 1px 0; line-height: 1.35; }
+
+/* Tutorial page */
+.back-link { margin: 0 0 14px; font-size: 0.88em; }
+.back-link a { color: #6b7a85; text-decoration: none; }
+.back-link a:hover { color: #275d38; }
+.tutorial-hero { padding: 32px 36px; margin-bottom: 30px; background: #fff; border: 1px solid #e3e8ee; border-top: 5px solid #275d38; border-radius: 14px; box-shadow: 0 6px 24px rgba(30, 45, 60, 0.08); }
+.tutorial-hero h1 { margin: 0 0 10px; font-size: 2.05em; line-height: 1.2; font-weight: 700; color: #1a2733; letter-spacing: -0.5px; border: none; padding: 0; }
+.tutorial-kicker { margin: 0 0 10px; font-size: 0.82em; font-weight: 600; letter-spacing: 1.6px; text-transform: uppercase; color: #275d38; }
+.tutorial-speakers { margin: 0; font-size: 1.1em; color: #3d4a56; }
+.tutorial-speakers a { color: #275d38; font-weight: 600; text-decoration: none; border-bottom: 1px solid rgba(39, 93, 56, 0.3); }
+.tutorial-helpers { margin: 4px 0 0; font-size: 0.92em; color: #6b7a85; }
+.schedule-table { width: 100%; border-collapse: collapse; margin: 14px 0 30px; font-size: 0.93em; }
+.schedule-table th { text-align: left; font-size: 0.75em; font-weight: 700; letter-spacing: 0.8px; text-transform: uppercase; color: #8a97a1; padding: 6px 10px; border-bottom: 1px solid #e3e8ee; }
+.schedule-table td { padding: 10px; border-bottom: 1px solid #eef1f4; vertical-align: top; color: #3d4a56; line-height: 1.45; }
+.schedule-table td:first-child { white-space: nowrap; color: #6b7a85; font-variant-numeric: tabular-nums; }
+.schedule-table td:last-child { white-space: nowrap; }
+.schedule-table td a { color: #275d38; font-weight: 600; text-decoration: none; }
+.schedule-table tr.row-handson td { background: #f4f8f5; }
+.schedule-table tr.row-break td { background: #f6f8fa; color: #8a97a1; }
+.handson-card { padding: 22px 26px; margin: 18px 0 22px; background: #fff; border: 1px solid #e3e8ee; border-left: 4px solid #275d38; border-radius: 10px; }
+.handson-card h3 { margin: 0 0 8px; color: #1a2733; }
+.handson-card p { line-height: 1.55; }
+.handson-label { margin: 0 0 4px; font-size: 0.78em; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; color: #6b7a85; }
+.profile-links span.link-pending { font-style: italic; }
