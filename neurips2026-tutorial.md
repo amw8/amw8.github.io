@@ -34,7 +34,7 @@ It is no secret that reinforcement learning algorithms are hard to apply in the 
 <tr class="row-break"><td>10:05 – 10:30</td><td><strong>Break</strong></td><td></td></tr>
 <tr><td>10:30 – 11:00</td><td><strong>Designing laboratory experiments aligned with real-world concerns.</strong> Empirical methodology, new benchmarks, common accidental cheating, and more.</td><td>Martha</td></tr>
 <tr><td>11:00 – 11:15</td><td><strong>Common poor empirical practices in RL.</strong> Too few seeds, untuned baselines, and confidently incorrect claims (confidence intervals, distributions) that make us think our algorithms are ready for the real world.</td><td>Andrew</td></tr>
-<tr class="row-handson"><td>11:15 – 11:40</td><td><strong>Hands-on session 2: Same agents, different conclusions.</strong> How these errors mislead us about what works in deployment. <a href="#hands-on-2">Details ↓</a></td><td>Andrew &amp; Esraa</td></tr>
+<tr class="row-handson"><td>11:15 – 11:40</td><td><strong>Hands-on session 2: Evaluation Pitfalls in Deep RL.</strong> How these errors mislead us about what works in deployment. <a href="#hands-on-2">Details ↓</a></td><td>Andrew &amp; Esraa</td></tr>
 <tr><td>11:40 – 11:50</td><td><strong>Wrap-up.</strong> If you take three messages away today…</td><td>Martha</td></tr>
 </tbody>
 </table>
@@ -54,7 +54,7 @@ Both sessions run in Colab in your browser. Bring a laptop and a Google account;
 
 <div class="handson-card" id="hands-on-2">
   <p class="handson-label">Hands-on session 2 · 25 minutes · Andrew &amp; Esraa</p>
-  <h3>Same agents, different conclusions</h3>
+  <h3>Evaluation Pitfalls in Deep RL</h3>
   <p>
 This notebook serves as a hands-on guide to Empirical Design in Reinforcement Learning (Patterson, Neumann, White & White). The goal of the notebook is to show how our empirical practices shape the conclusions we draw about our algorithms. We will show that common poor empirical practices can make the same agent look better, or more reliable than it actually is in reality, and could also lead to wrong rankings of algorithms. Additionally, we illustrate the importance of running many independent trials and examining the performance distribution of the agents rather than the mean performance across runs.    
 </p>
