@@ -55,7 +55,9 @@ Both sessions run in Colab in your browser. Bring a laptop and a Google account;
 <div class="handson-card" id="hands-on-2">
   <p class="handson-label">Hands-on session 2 · 25 minutes · Andrew &amp; Esraa</p>
   <h3>Same agents, different conclusions</h3>
-  <p>In the first session you ran the plant; now you write the paper. Nothing trains. You get the runs from the experiments in <a href="https://jmlr.org/papers/v25/23-0183.html">Empirical Design in Reinforcement Learning</a> and make the analysis choices yourself: how many seeds to report, which interval to trust, how to pick the best configuration from a sweep, and where to cut off an episode. Each common shortcut turns the same agents into a better-looking result. All of it runs on Mountain Car and PuddleWorld, on purpose: deployment-aligned evaluation is a protocol you can apply in any environment, not a reason to abandon simple problems.</p>
+  <p>
+This notebook serves as a hands-on guide to Empirical Design in Reinforcement Learning (Patterson, Neumann, White & White). The goal of the notebook is to show how our empirical practices shape the conclusions we draw about our algorithms. We will show that common poor empirical practices can make the same agent look better, or more reliable than it actually is in reality, and could also lead to wrong rankings of algorithms. Additionally, we illustrate the importance of running many independent trials and examining the performance distribution of the agents rather than the mean performance across runs.    
+</p>
   <div class="profile-links">
     <span class="link-pending">Colab notebook · coming soon</span>
   </div>
